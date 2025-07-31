@@ -1,0 +1,25 @@
+{
+  "name": "products-rest-api",
+  "version": "1.0.0",
+  "description": "REST API for Products using Express.js",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^4.18.2",
+    "mysql2": "^3.14.3"
+  },
+  "keywords": [
+    "express",
+    "rest",
+    "api",
+    "products"
+  ],
+  "author": "",
+  "license": "MIT"
+}
