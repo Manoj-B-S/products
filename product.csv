@@ -1,0 +1,1001 @@
+id,cost,category,name,brand,retail_price,department,sku,distribution_center_id
+3001,24.47592,Active,"Roxy Juniors Printed Poncho",Roxy,59.99,Women,908C9A564A86426585B29F5335B619BC,2
+3002,11.10000,Active,"Danskin Women's Triathlon Print Tank",Danskin,25.00,Women,D806CA13CA3449AF72A1EA5AEDBED26A,2
+3003,7.70000,Active,"Ladies Black Yoga Pants Blue Fold-over Waistband",FineBrandShop,17.50,Women,A4380923DD651C195B1631AF7C829187,7
+3004,5.43750,Active,"PT903W Women's Cut Single Ply Light Weight Track Singlet-Control Unwanted Odors and Excess Moisture-Great for Competition Running or Marathons-Colors Include Black Green Navy Royal and Purple-Sizes SM-XXXL","Game Gear",12.50,Women,20479C788FB27378C2C99EADCF207E7F,1
+3005,18.44600,Active,"Champion Women's Shape Too Bra",Champion,46.00,Women,3A61ED715EE66C48BACF237FA7BB5289,2
+3006,19.74000,Active,"Champion Women's Shape Knee Tight",Champion,42.00,Women,5F268DFB0FBEF44DE0F668A022707B86,2
+3007,31.36000,Active,"Mountain Hardwear Women's Butter Hooded Topper Pullover","Mountain Hardwear",70.00,Women,A724B9124ACC7B5058ED75A31A9C2919,7
+3008,28.53500,Active,"Hot Chillys Women's Micro-Elite Chamois 8K Solid Zip-Tee","Hot Chillys",65.00,Women,C02F9DE3C2F3040751818AACC7F60B74,3
+3009,25.94200,Active,"Hurley Juniors Getaway Pullover",Hurley,59.50,Women,EE16FA83C0F151EF85E617F5AA3867A6,1
+3010,25.63600,Active,"SportHill Women's Voyage Pant",SportHill,68.00,Women,22722A343513ED45F14905EB07621686,7
+3011,24.19200,Active,"Everyday Tights (Tall)","Fit Couture",56.00,Women,B1F62FA99DE9F27A048344D55C5EF7A6,1
+3012,27.93000,Active,"Sporthill Womens Nomad II Pant",SportHill,70.00,Women,5A01F0597AC4BDF35C24846734EE9A76,7
+3013,18.70050,Active,"adidas Women's Response Warm-Up Jacket",adidas,45.50,Women,4110A1994471C595F7583EF1B74BA4CB,4
+3014,15.48000,Active,"Columbia Women's Brewha II Short",Columbia,40.00,Women,77EDBE5F897A5DBCDE49D31BEC1537B8,6
+3015,25.07500,Active,"Straight Leg Yoga Pant","Fit Couture",59.00,Women,51BE2FED6C55F5AA0C16FF14C140B187,1
+3016,13.02952,Active,"Champion Gotta Have Mesh Capri",Champion,35.12,Women,53A1320CB5D2F56130AD5222F93DA374,2
+3017,11.60000,Active,"Jillian Michaels Collection by K-Swiss Women's Life Is Henley",K-Swiss,25.00,Women,248024541DBDA1D3FD75FE49D1A4DF4D,1
+3018,21.50500,Active,"prAna Women's Amelia Top",prAna,55.00,Women,9A96A2C73C0D477FF2A6DA3BF538F4F4,7
+3019,32.13000,Active,"Ibex Women's Woolies Crew Top",Ibex,85.00,Women,A74C3BAE3E13616104C1B25F9DA1F11F,8
+3020,30.30000,Active,"Beyond Yoga Women's Low Rise Capri","Beyond Yoga",75.00,Women,E4A93F0332B2519177ED55741EA4E5E7,4
+3021,17.30400,Active,"adidas Women's Response Ts Jacket",adidas,42.00,Women,9CB9ED4F35CF7C2F295CC2BC6F732A84,4
+3022,3.59658,Active,"Danskin Women's Agility Skort",Danskin,9.54,Women,C8862FC1A32725712838863FB1A260B9,2
+3023,37.73600,Active,"Bench Women's Slinker Fleece Hoodie",Bench,89.00,Women,09D37C08F7B129E96277388757530C72,7
+3024,30.80000,Active,"ExOfficio Women's Chica Cool Hoody",ExOfficio,70.00,Women,E5522F7AC7CD76F19B396595C9C25B40,2
+3025,10.64080,Active,"Capezio Women's Princess Camisole Leotard",Capezio,22.64,Women,2BD235C31C97855B7EF2DC8B414779AF,1
+3026,32.32500,Active,"prAna Women's Essex Pant",prAna,75.00,Women,0CDF61037D7053CA59347AB230818335,7
+3027,15.55200,Active,"Cuddl Duds Women's Long Sleeve V-Neck Flexifit Outerwear","Cuddl Duds",36.00,Women,B922EDE9C9EB9EABEC1C1FECBDECB45D,1
+3028,11.57614,Active,"ASICS Women's Team Split Short",ASICS,29.99,Women,7EDFD52220E2032E7281061C82401195,1
+3029,24.18000,Active,"Ibex Women's Balance Sport Sports Bra",Ibex,60.00,Women,A0BA2648ACD23DC7A5829968CE531A7D,8
+3030,10.52500,Active,"ADIDAS ADI TREFOIL TEE MENS X41273",adidas,25.00,Women,2D95666E2649FCFC6E3AF75E09F5ADB9,4
+3031,21.21600,Active,"Moving Comfort Women's Endurance Capri","Moving Comfort",52.00,Women,0CD60EFB5578CD967C3C23894F305800,3
+3032,6.19500,Active,"The Original 1/2 Toe Sock for Yoga Pilates and Lounging Around (S/M Happy Tabi)",Toezies,15.00,Women,8A56257EA05C74018291954FC56FC448,2
+3033,10.12500,Active,"Southpole Juniors Printed Lace Fold Over Waist Yoga Pant",Southpole,25.00,Women,272E11700558E27BE60F7489D2D782E7,1
+3034,12.67200,Active,"John Deere Womens Pull Over Fleece Hoodie","John Deere",33.00,Women,7B66E8931C93DA8C88A0A8B6DEC62F9E,9
+3035,13.21600,Active,"Ladies Velour Hoody Tracksuit Kangaroo Pocket Charcoal",FineBrandShop,29.50,Women,03BFC1D4783966C69CC6AEF8247E0103,7
+3036,4.53696,Active,"Champion Women's Extended Size 6-Pack Performance Ankle Socks",Champion,10.88,Women,4B86CA48D90BD5F0978AFA3A012503A4,2
+3037,75.03531,Active,"Gore Bike Wear Women's Contest Windstopper Soft Shell Lady Jacket",Gore,159.99,Women,10CE03A1ED01077E3E289F3E53C72813,4
+3038,23.60600,Active,"BollÃƒÂ© Women's Essential Pleated Tennis Skirt",Bolle,58.00,Women,A92C274B8BE496FB05D95033552EEDDD,8
+3039,22.62735,Active,"2XU Women's Compression Race Sock",2XU,49.95,Women,F0204E1D3EE3E4B05DE4E2DDBD39E076,1
+3040,55.87500,Active,"Ibex Women's Shak Vest",Ibex,125.00,Women,9023EFFE3C16B0477DF9B93E26D57E2C,8
+3041,10.18600,Active,"Hot Chillys Women's Lo Volume Sock","Hot Chillys",22.00,Women,9922F5774D88B203C4EC0FDD26616899,3
+3042,7.98000,Active,"Adidas Ladies 3-stripe Long Sleeve Athletic V-neck Tee White",adidas,19.95,Women,3FD60983292458BF7DEE75F12D5E9E05,4
+3043,6.43950,Active,"Russell Athletic Women's Stretch Short","Russell Athletic",15.90,Women,FC325D4B598AAEDE18B53DCA4ECFCB9C,9
+3044,69.30000,Active,"Mountain Hardwear Women's Nitrous Vest","Mountain Hardwear",175.00,Women,B8AF7D0FBF094517781E0382102D7B27,7
+3045,23.70500,Active,"adidas Women's Zip Pindot Hoody",adidas,55.00,Women,0EBF197205C00FC6E0AAC7261A8C1BDC,4
+3046,45.10000,Active,"SportHill Women's Traverse II Pant",SportHill,110.00,Women,975E6107778CE7A40B9878BFB96A16A7,7
+3047,12.12800,Active,"Tasc Performance Women's Cape Elizabeth Racer Back Tank Top Shirt","tasc Performance",32.00,Women,8E489B4966FE8F703B5BE647F1CBAE63,1
+3048,16.50105,Active,"Royal Robbins Women's Kick Back Crossover Long Sleeve Shirt","Royal Robbins",35.95,Women,5DA713A690C067105AEB2FAE32403405,3
+3049,0.91650,Active,"Pink Ribbon Breast Cancer Awareness Knee High Socks Great for Sports Teams Fundraising Relay for Life Walk Survivor (Style 26)","Palmetto Fundraising",1.95,Women,4FA177DF22864518B2D7818D4DB5DB2D,7
+3050,66.99000,Active,"Arc'teryx Atom LT Vest - Women's",Arc'teryx,145.00,Women,EF72D53990BC4805684C9B61FA64A102,3
+3051,10.30850,Active,"Harmonie Womens Multi-striped Hipster Short",Harmonie,26.50,Women,F0B1D5879866F2C2EBA77F39993D1184,6
+3052,30.42900,Active,"Shock Absorber Women's Padded Pump Sport Bra","Shock Absorber",69.00,Women,C1B70D965CA504AA751DDB62AD69C63F,1
+3053,3.48364,Active,"New Womens Leggings Tights Yoga Half Leg Length - (9 Different Colors)",Coool,7.99,Women,177540C7BCB8DB31697B601642EAC8D4,4
+3054,12.09500,Active,"Ladies Plus Size Velour Hoody Tracksuit Kangaroo Pocket Black",FineBrandShop,29.50,Women,D9B1655C134B831076D6C45620A78C33,7
+3055,23.70750,Active,"Fox Moto-X Zip Hoody 2",Fox,54.50,Women,2836BE05E71A8F34902A6E6B37350134,6
+3056,20.79000,Active,"Coolibar UPF 50+ Women's Short-Sleeve Swim Shirt",Coolibar,55.00,Women,DC6E224A8D74CE03BF301152D6E33E97,5
+3057,28.37441,Active,"Columbia Women's Fast Trek Hybrid Full Zip Jacket",Columbia,64.93,Women,C1502AE5A4D514BAEC129F72948C266E,6
+3058,6.08220,Active,"Bridgedale Women's Lo Socks",Bridgedale,13.95,Women,3F5EE243547DEE91FBD053C1C4A845AA,1
+3059,10.05000,Active,"adidas Women's Response DS Short-Sleeve Tee W Short-Sleeve Top",adidas,25.00,Women,CC431FD7EC4437DE061C2577A4603995,4
+3060,44.99000,Active,"Mountain Hardwear Women's Sarafin Cardigan","Mountain Hardwear",110.00,Women,0A5C79B1EAF15445DA252ADA718857E9,7
+3061,11.62500,Active,"Brooks Women's Epiphany Sports Bra",Brooks,25.00,Women,4AA0E93B918848BE0B7728B4B1568D8A,9
+3062,8.56578,Active,"Zumba Fitness Women's Shatter 3/4 Sleeve Top","Zumba Fitness",22.02,Women,1AA057313C28FA4A40C5BC084B11D276,7
+3063,13.60638,Active,"Feetures Ultra Light Cushion No Show Tab 3 pk.",Feetures,29.97,Women,1BD4B29A8E0AFCCD9923FE29CECB4B29,3
+3064,30.16000,Active,"Brooks Women's HVAC Synergy Long Sleeve 1/2 Zip Top",Brooks,65.00,Women,494BA9FF03BDAD881378A6FD4092A6C7,9
+3065,9.49620,Active,"Hoodie Buddie MP3 Earbuds Grey Black Stripe Zip Sweatshirt Jacket Junior",HoodieBuddie,24.99,Women,6FEC24EAC8F18ED793F5EAAD3DD7977C,8
+3066,5.85200,Active,"Steve Madden Legwear Women's 6 Pack Fashion Low Cut Athletic Herringbone Pattern Sock","Steve Madden",14.00,Women,D8AB1A52F058358B947CDF8261B5E1A2,8
+3067,134.40000,Active,"Mountain Hardwear Women's Citilicious Coat","Mountain Hardwear",300.00,Women,FEDF67D6F3D7341C1C1E8A54774987D3,7
+3068,8.95788,Active,"Capezio Women's Capezio Women'S Camisole Tank Bra Top",Capezio,20.04,Women,F5496252609C43EB8A3D147AB9B9C006,1
+3069,23.93600,Active,"Beyond Yoga Women's Racer Back Cami","Beyond Yoga",64.00,Women,BDB6920ADCD0457AA17B53B22963DAD9,4
+3070,20.98231,Active,"Hot Chillys Women's Peach Skins Sublimated Print T-Neck Shirt","Hot Chillys",44.93,Women,BB073F2855D769BE5BF191F6378F7150,3
+3071,12.68500,Active,"Ladies Velour Hoody Tracksuit Kangaroo Pocket Fuchsia Pink",FineBrandShop,29.50,Women,6917FF2A7B53421FF4066020E2D89EEC,7
+3072,17.07200,Active,"Oiselle Running Women's Roga Shorts","Oiselle Running",44.00,Women,BE767243CA8F574C740FB4C26CC6DCEB,2
+3073,11.72500,Active,"adidas Women's Eqt10 Graphic Tee",adidas,25.00,Women,C8CD63E1BF13C5016881652983FB615A,4
+3074,12.59580,Active,"Coolibar UPF 50+ Women's Travel Tunic - Sun Protective",Coolibar,29.99,Women,639D79CC857A6C76C2723B7E014FCCB0,5
+3075,15.94005,Active,"Women's Legend Golf/Windshirt","Charles River Apparel",39.95,Women,A2186AA7C086B46AD4E8BF81E2A3A19B,8
+3076,42.24000,Active,"Minus33 100% Merino Wool Base Layer 809 Women's Expedition Weight Bottoms","Minus33 Merino Wool",96.00,Women,B6E710870ACB098E584277457BA89D68,3
+3077,8.17700,Active,"HT260 Women's Double Ply Front Sports Bra with Athletic Cut Racer Back-Made with Odor Protective Quick Dry Flexible Fabric-Great for Tennis Field Hockey Running and Outdoor Workouts-Available in Black and White-Sizes XS-XXXL","Game Gear",18.50,Women,663FD3C5144FD10BD5CA6611A9A5B92D,1
+3078,14.82750,Active,"White Sierra F9201W Women's Kylie II Base Layer Pant","White Sierra",32.95,Women,1091660F3DFF84FD648EFE31391C5524,4
+3079,5.08300,Active,"Danskin Women's Microfiber Hipster Crop Tights",Danskin,13.00,Women,F44EE263952E65B3610B8BA51229D1F9,2
+3080,21.94800,Active,"Shock Absorber Women's Classic Sports Bra","Shock Absorber",59.00,Women,A9986CB066812F440BC2BB6E3C13696C,1
+3081,12.29176,Active,"Comfort Colors by Chouinard Ladies Hooded Sweatshirt Front Pouch Pocket. 1595","Comfort Colors",28.99,Women,CE60FF163CAB97029CC727E20E0FC3A7,10
+3082,30.75600,Active,"Beyond Yoga Women's Original Cami","Beyond Yoga",66.00,Women,F14BC21BE7EAEED046FED206A492E652,4
+3083,6.42141,Active,"Novelty Zebra Print Black and White Sports Bra cotton spandex jersey cotton imprintable","Touch of Europe Shirts & Tops",13.99,Women,D3157F2F0212A80A5D042C127522A2D5,1
+3084,2.57544,Active,"JMS Comfort Top Fashion Legging - 89005",JMS,6.57,Women,1706F191D760C78DFCEC5012E43B6714,2
+3085,14.11200,Active,"Ecoland Women's Organic Cotton Wireless Soft-Cup Light Sports Bra - Made in USA",Ecoland,36.00,Women,2BB0502C80B7432EEE4C5847A5FD077B,7
+3086,23.45850,Active,"Minus33 100% Merino Wool Base Layer 801 Women's LightWeight Bottoms","Minus33 Merino Wool",58.50,Women,A081CAB429FF7A3B96E0A07319F1049E,3
+3087,27.17000,Active,"Saucony Women's Ethereal Jacket",Saucony,65.00,Women,78BC62D08A9A0B9B0B9C0AD339EF82D3,2
+3088,19.55000,Active,"ExOfficio Women's ExO Dri Carbonite V-Neck Short-Sleeve Shirt",ExOfficio,50.00,Women,DC6A7E655D7E5840E66733E9EE67CC69,2
+3089,16.38000,Active,"Tommy Hilfiger Women's Zip Front Fleece Jacket","Tommy Hilfiger",35.00,Women,CCD2E3EAA5C991AC880991328C8F1463,1
+3090,42.92400,Active,"Sucette Rose Faux Mink Fur Vest in Light or Dark Brown","Sucette Rose",98.00,Women,748D6B6ED8E13F857CEAA6CFBDCA14B8,3
+3091,12.27000,Active,"adidas Women's Response Fitted Tank",adidas,30.00,Women,05B8CAAF6BA6F4BDB68675AB8B893BDA,4
+3092,19.91800,Active,"DC Juniors Tstar E Ph Fleece Tee",DC,46.00,Women,6AD4174EBA19ECB5FED17411A34FF5E6,4
+3093,89.51627,Active,"Icebreaker Women's Cascade Hood",Icebreaker,239.99,Women,8004D637B6236202217BE3DFCDD8CE59,1
+3094,7.24200,Active,"KEEN Women Bellingham Crew Lite Sock",Keen,17.00,Women,512FC3C5227F637E41437C999A2D3169,6
+3095,15.80000,Active,"Champion Women's Ultimate 1/4 Zip Jacket",Champion,40.00,Women,4DB0F8B0FC895DA263FD77FC8AECABE4,2
+3096,7.78050,Active,"Speedo Women's Team Collection Lochte Jersey Tee",Speedo,19.95,Women,60792D855CD8A912A97711F91A1F155C,4
+3097,49.27552,Dresses,"Jessica Howard Women's 1 Piece 3/4 Rhinestone Cuff Sleeve Embellished Drape Neck Ruched Waist Dress","Jessica Howard",109.99,Women,3B5020BB891119B9F5130F1FEA9BD773,3
+3098,18.81645,Dresses,"2B Strapless Leatherette High Low","2b by bebe",39.95,Women,ADA5E0B63EF60E2239FA8ABDD4AA2F8E,5
+3099,38.54800,Dresses,"KAMALIKULTURE Women's Off The Shoulder Shirred Waist Dress",KAMALIKULTURE,92.00,Women,B23F52202479E957B9BADA847C1175D7,9
+3100,48.48382,Dresses,"Bcbgeneration Women's One Shoulder Ruffle Dress",BCBGeneration,115.99,Women,CC3D69ED781B16BCE06687822AE56E6D,8
+3101,23.70000,Dresses,"Star Vixen Women's O-Ring 3/4 Sleevedress","Star Vixen",50.00,Women,62F91CE9B820A491EE78C108636DB089,3
+3102,94.72320,Dresses,"Amanda Uprichard Women's Neulla Dress","Amanda Uprichard",202.40,Women,C5D9256689C43036581F781C61F26E50,9
+3103,113.52000,Dresses,"Myne Women's Vera Dress",Myne,264.00,Women,96629F1AAC6DDB7A7CFA82574B6722D4,3
+3104,70.21300,Dresses,"Gypsy 05 Women's Jessie Tulip Dress","Gypsy 05",143.00,Women,75B9B6DC7FE44437C6E0A69FD863DBAB,1
+3105,58.65000,Dresses,"Adrianna Papell Women's Lace Dress with Slip","Adrianna Papell",138.00,Women,37E7897F62E8D91B1CE60515829CA282,10
+3106,57.79200,Dresses,"Anne Klein Women's V-Neck Dress","Anne Klein",129.00,Women,4AEC1B3435C52ABBDF8334EA0E7141E0,2
+3107,94.61200,Dresses,"Plenty by Tracy Reese Women's Surplice Dress Black","Plenty by Tracy Reese",218.00,Women,1CFEAD9959B76CE44A847C850B61C587,1
+3108,47.90830,Dresses,"Anne Klein Women's Petite V-Neck Dress","Anne Klein",106.70,Women,FFBD6CBB019A1413183C8D08F2929307,2
+3109,61.37560,Dresses,"Heather Women's Double Mini",Heather,127.60,Women,D4A897919A124958E699170B2B1DC8F2,1
+3110,62.28950,Dresses,"Calvin Klein Women's Printed Maxi Dress","Calvin Klein",129.50,Women,E9FB2EDA3D9C55A0D89C98D6C54B5B3E,3
+3111,42.82800,Dresses,"KAMALIKULTURE Women's Halter Turtleneck Dress",KAMALIKULTURE,86.00,Women,9E6A921FBC428B5638B3986E365D4F21,9
+3112,60.96150,Dresses,"Calvin Klein Women's Plus-Size Wmn Printed Seamed Dress","Calvin Klein",139.50,Women,87F4D79E36D68C3031CCF6C55E9BBD39,3
+3113,44.55000,Dresses,"KAMALIKULTURE Women's Shirt Dress",KAMALIKULTURE,90.00,Women,532B7CBE070A3579F424988A040752F2,9
+3114,47.81700,Dresses,"KAMALIKULTURE Women's Racer Maxi Gown",KAMALIKULTURE,99.00,Women,BBB001BA009ED11717EAEC9305B2FEB6,9
+3115,46.09539,Dresses,"Jessica Howard Women's Color Block Shift Dress","Jessica Howard",99.99,Women,366F0BC7BD1D4BF414073CABBADFDFCD,3
+3116,49.75000,Dresses,"Calvin Klein Women's Colorblock Self Belt Dress","Calvin Klein",99.50,Women,58191D2A914C6DAE66371C9DCDC91B41,3
+3117,21.68400,Dresses,"Star Vixen Women's Fullwrap Dress","Star Vixen",52.00,Women,8B313CBF30999888DE32DA1EC83FF503,3
+3118,41.35600,Dresses,"BCBGeneration Women's Sleeveless Back Cutout Dress",BCBGeneration,98.00,Women,F0031C7A91D74015A9ADDFBC589F3FE5,8
+3119,108.27200,Dresses,"Plenty by Tracy Reese Women's Lace Front Shift Dress","Plenty by Tracy Reese",268.00,Women,F42C7F9C8AEAB0FC412031E192E2119D,1
+3120,19.96400,Dresses,"Star Vixen Women's Colorblock Longsleeve Ponte Dress","Star Vixen",46.00,Women,F231F2107DF69EAB0A3862D50018A9B2,3
+3121,200.97000,Dresses,"Robert Rodriguez Women's Lace V-Neck Tiered Dress","Robert Rodriguez",495.00,Women,097E26B2FFB0339458B55DA17425A71F,3
+3122,149.50000,Dresses,"Alice & Trixie Women's Georgina Tunic","Alice & Trixie",325.00,Women,A2D10D355CDEBC879E4FC6ECC6F63DD7,1
+3123,58.92600,Dresses,"French Connection Women's Sorrento Stripe","French Connection",138.00,Women,2E0ACA891F2A8AEDF265EDF533A6D9A8,5
+3124,40.86600,Dresses,"KAMALIKULTURE Women's Long Sleeve Henley Maxi Dress",KAMALIKULTURE,98.00,Women,7C78335A8924215EA5C22FDA1AAC7B75,9
+3125,80.13600,Dresses,"Jessica Simpson Women's Long Sleeve V-Back Dress","Jessica Simpson",168.00,Women,019F8B946A256D9357EADC5ACE2C8678,4
+3126,54.73000,Dresses,"aryn K Women's Deep V-Neck Long Sleeve Mini Dress","Aryn K",130.00,Women,9F8684E630C4C30CAD7B1F0935CD62AB,2
+3127,79.38800,Dresses,"BCBGMAXAZRIA Women's Renee Knit Sportswear Dress",BCBGMAXAZRIA,178.00,Women,CA1D3153A1CF0ED998D4879FBB50D9AB,3
+3128,26.69520,Dresses,"Gabby Skye Women's Fit N Flare Dress","Gabby Skye",58.80,Women,DFF8E9C2AC33381546D96DEEA9922999,1
+3129,187.48800,Dresses,"Tracy Reese Women's Applique Frock","Tracy Reese",378.00,Women,C6A01432C8138D46BA39957A8250E027,3
+3130,164.73600,Dresses,"Parker Women's Beaded Shift Dress",Parker,352.00,Women,C922DE9E01CBA8A4684F6C3471130E4C,7
+3131,76.78800,Dresses,"Jax Women's Lace Dress With Cap Sleeve",Jax,158.00,Women,54FDA78AA8A09B4D77B5AAEC57B75028,8
+3132,49.29507,Dresses,"Jessica Howard Women's Tie Waist Crochet Blouson","Jessica Howard",99.99,Women,FB2606A5068901DA92473666256E6E5B,3
+3133,47.79522,Dresses,"Jessica Howard Women's Sleeveless Shirred Neck Dress","Jessica Howard",99.99,Women,7221E5C8EC6B08EF6D3F9FF3CE6EB1D1,3
+3134,20.82915,Dresses,"2B Paradise Breeze Staci Maxi","2b by bebe",49.95,Women,35937E34256CF4E5B2F7DA08871D2A0B,5
+3135,228.69000,Dresses,"HALSTON HERITAGE Women's Sleeveless V-Neck Faille Dress","Halston Heritage",495.00,Women,8B8388180314A337C9AA3C5AA8E2F37A,1
+3136,25.34280,Dresses,"Gabby Skye Women's Lace Dress","Gabby Skye",58.80,Women,2ECD2BD94734E5DD392D8678BC64CDAB,1
+3137,63.59700,Dresses,"Anne Klein Women's Color Block Ponte Swing Dress","Anne Klein",129.00,Women,8C9A14FFEBB7677D033FFCE847991293,2
+3138,70.00000,Dresses,"Adrianna Papell Women's Lace Blocked Dress","Adrianna Papell",140.00,Women,86B20716FBD5B253D27CEC43127089BC,10
+3139,23.28000,Dresses,"Julian Taylor Women's Cap Sleeve Stretch Crepe Dress","Julian Taylor",48.00,Women,E8BF0F27D70D480D3AB793BB7619AAA5,5
+3140,43.78800,Dresses,"London Times Women's Printed Matte Jersey Sheath","London Times",89.00,Women,747D3443E319A22747FBB873E8B2F9F2,3
+3141,50.50000,Dresses,"WeSC Women's Beetlejuice Dress",WESC,101.00,Women,92A08BF918F44CCD961477BE30023DA1,7
+3142,69.11600,Dresses,"Suzi Chin Women's Pleated Dress","Suzi Chin",148.00,Women,BD85282513DA4089C441926E1975898C,3
+3143,18.78910,Dresses,"2B Passport Stripe High Low Dress","2b by bebe",44.95,Women,0AFA92FC0F8A9CF051BF2961B06AC56B,5
+3144,33.44800,Dresses,"KAMALIKULTURE Women's Sleeveless Shirred Waist Dress",KAMALIKULTURE,74.00,Women,A41B3BB3E6B050B6C9067C67F663B915,9
+3145,21.38400,Dresses,"Volcom Juniors Not So Classic Dress",Volcom,49.50,Women,1160453108D3E537255E9F7B931F4E90,4
+3146,61.69600,Dresses,"Calvin Klein Women's Sheath Dress","Calvin Klein",128.00,Women,5D4AE76F053F8F2516AD12961EF7FE97,3
+3147,40.29300,Dresses,"London Times Women's Shimmer Side Ruched Sheath","London Times",99.00,Women,38ED162A0DBEF7B3FE0F628AA08B90E7,3
+3148,43.49565,Dresses,"Jessica Howard Women's 3/4 Cold Shoulder Tie Waist Blouson Dress","Jessica Howard",99.99,Women,D87C68A56BC8EB803B44F25ABB627786,3
+3149,67.48200,Dresses,"Addison Women's Shift Dress",Addison,163.00,Women,32B3EE0272954B956A7D1F86F76AFA21,2
+3150,37.26000,Dresses,"KAMALIKULTURE Women's Long Sleeve Crewneck Tee Dress",KAMALIKULTURE,90.00,Women,77EE3BC58CE560B86C2B59363281E914,9
+3151,49.49505,Dresses,"Jessica Howard Women's Sleeveless Surplus Bodice Dress","Jessica Howard",99.99,Women,98C39996BF1543E974747A2549B3107C,3
+3152,116.10000,Dresses,"Cluny Women's Silk And Knit Tunic Dress",Cluny,258.00,Women,32CBF687880EB1674A07BF717761DD3A,5
+3153,46.43100,Dresses,"KAMALIKULTURE Women's All In One Gown",KAMALIKULTURE,99.00,Women,9AEADE7BEADA35C83D3B344FBAFE43B0,9
+3154,36.45264,Dresses,"London Times Women's Printed Ponte Shift Dress","London Times",79.94,Women,FDBD31F2027F20378B1A80125FC862DB,3
+3155,54.66503,Dresses,"Jessica Howard Women's Plus Size Sheer Balloon Sleeve Shift Dress","Jessica Howard",109.99,Women,B22B257AD0519D4500539DA3C8BCF4DD,3
+3156,28.25529,Dresses,"Danny & Nicole Women's Dot Dress","Danny & Nicole",59.99,Women,2227D753DC18505031869D44673728E2,9
+3157,60.34095,Dresses,"Eliza J Women's 1 Piece Sleevless Dress With Pleated Tulip Skirt And Belt","Eliza J",148.99,Women,2B45E8D6ABF59038A975FAEEB6DC0782,2
+3158,40.86600,Dresses,"KAMALIKULTURE Women's Long Sleeve Turtleneck Dress",KAMALIKULTURE,98.00,Women,55D99A37B2E1BADBA7C8DF4CCD506A88,9
+3159,42.53200,Dresses,"Jax Women's Lace Dress",Jax,98.00,Women,99EF04EB612BAF0E86671A5109E22154,8
+3160,53.88800,Dresses,"Calvin Klein Women's Rayon-Polyesterester Lux Career Dress","Calvin Klein",128.00,Women,9808AE38758804501CA3FC0697050E03,3
+3161,46.86498,Dresses,"Adrianna Papell Women's Sleeveless Lace Dress","Adrianna Papell",96.43,Women,29539ED932D32F1C56324CDED92C07C2,10
+3162,59.13600,Dresses,"Calvin Klein Women's Lux Rayon Career Dress","Calvin Klein",128.00,Women,D60678E8F2BA9C540798EBBDE31177E8,3
+3163,52.37400,Dresses,"AK Anne Klein Women's Honeycomb Fade Short Sleeve","Anne Klein",129.00,Women,6A4D5952D4C018A1C1AF9FA590A10DDA,2
+3164,69.87631,Dresses,"Eliza J Women's Sleeveless Dress with Tulip Skirt","Eliza J",148.99,Women,98B17F068D5D9B7668E19FB8AE470841,2
+3165,68.74000,Dresses,"Adrianna Papell Women's Sleeveless Chiffon Flutter Dress","Adrianna Papell",140.00,Women,B299AD862B6F12CB57679F0538ECA514,10
+3166,63.00000,Dresses,"Adrianna Papell Women's Lace Dress","Adrianna Papell",140.00,Women,5E6D27A7A8A8330DF4B53240737CCC85,10
+3167,23.93160,Dresses,"Gabby Skye Women's Sheer Shoulder Dress","Gabby Skye",58.80,Women,20C86A628232A67E7BD46F76FBA7CE12,1
+3168,3.87515,Dresses,"LnLClothing Ladies Fashion High Low Hem Dress ID.DS5045BR.R46",LnLClothing,7.99,Women,CE393994E8CF430867408678D1A5A9C8,1
+3169,13.22730,Dresses,"Sexy Club Wear Clubbing Party Outfits Taupe Black Chevron Zig-zag Print Long Cuff Sleeve Shift Mini Dress",PinkClubwear,31.95,Women,7A98AF17E63A0AC09CE2E96D03992FBC,9
+3170,9.83508,Dresses,"Curve Appeal Cowl Neck Long Sweater with Knit Belt","Curve Appeal",19.99,Women,73E5080F0F3804CB9CF470A8CE895DAC,8
+3171,42.59574,Dresses,"Jessica Howard Women's 1 Piece Long Sleeve Surplus Bodice Ruched Waist Dress","Jessica Howard",99.99,Women,976ABF49974D4686F87192EFA0513AE0,3
+3172,76.00600,Dresses,"maxandcleo Women's Whitney Striped Dress",maxandcleo,178.00,Women,E25CFA90F04351958216F97E3EFDABE9,10
+3173,18.58500,Dresses,"Hurley Juniors Capetown Dress",Hurley,45.00,Women,E8258E5140317FF36C7F8225A3BF9590,1
+3174,46.39350,Dresses,"London Times Women's Cocktail Jersey Shutter Tuck Sheath Dress","London Times",98.50,Women,45C166D697D65080D54501403B433256,3
+3175,49.40100,Dresses,"KAMALIKULTURE Women's All In One Dress",KAMALIKULTURE,99.00,Women,CE47BE4ABD80AC324C645FD57A27FC73,9
+3176,65.72800,Dresses,"Jax Women's Foil Dress",Jax,158.00,Women,59DFA2DF42D9E3D41F5B02BFC32229DD,8
+3177,46.39536,Dresses,"Jessica Howard Women's Plus Size 1 Piece Cold Shoulder Blouson Dress","Jessica Howard",99.99,Women,D3630410C51E60941A9001A46871070E,3
+3178,40.59594,Dresses,"Jessica Howard Women's Balloon Sleeve Shift Dress","Jessica Howard",99.99,Women,BA95D78A7C942571185308775A97A3A0,3
+3179,44.84700,Dresses,"KAMALIKULTURE Women's Long Sleeve Crewneck Maxi Dress",KAMALIKULTURE,99.00,Women,91378B331327B40E564390C43CD6B2BE,9
+3180,137.08000,Dresses,"BCBGMAXAZRIA Women's Edesa V-Neck Shirred Dress",BCBGMAXAZRIA,298.00,Women,C20A7CE2A627BA838CFBFF082DB35197,3
+3181,47.55590,Dresses,"Calvin Klein Women's Lux Stretch Career Dress","Calvin Klein",115.99,Women,F4AA0DD960521E045AE2F20621FB4EE9,3
+3182,71.99400,Dresses,"Jones New York Women's Sequins Short Sleeve Dress","Jones New York",169.00,Women,8051A3C40561002834E59D566B7430CF,3
+3183,68.88800,Dresses,"Suzi Chin Women's Lace Dress","Suzi Chin",158.00,Women,D9896106CA98D3D05B8CBDF4FD8B13A1,3
+3184,94.30601,Dresses,"Eliza J Women's One Shoulder Twofer With Jacquard Party Dress","Eliza J",188.99,Women,3EB414BF1C2A66A09C185D60553417B8,2
+3185,8.73563,Dresses,"One-size-fits-most Tube Dress/Coverup - Zinnia Ivy (many colors)",Alki'i,19.99,Women,39AE2ED11B14A4CCB41D35E9D1BA5D11,1
+3186,48.70600,Dresses,"GUESS Regina Sweater Dress",GUESS,98.00,Women,3F4366AEB9C157CF9A30C90693EAFC55,7
+3187,16.75162,Dresses,"Patty Women Elegant Black V Neck Floral Lace 3/4 Sleeve Cocktail Party Mini Dress",Patty,39.98,Women,31C0C178A9FC26FFECFFD8670E6D746D,1
+3188,42.43200,Dresses,"KAMALIKULTURE Women's Short Sleeve Sweetheart Draped Dress",KAMALIKULTURE,96.00,Women,8D30AA96E72440759F74BD2306C1FA3D,9
+3189,46.06000,Dresses,"KAMALIKULTURE Women's Long Sleeve Side Draped Dress",KAMALIKULTURE,98.00,Women,8832AE39136FB470B3FBBF9F47B4570D,9
+3190,56.63100,Dresses,"Anne Klein Women's Top Pocket Sweater Dress","Anne Klein",129.00,Women,07C4B1FDD1EF8DA2D7E9393071204B71,2
+3191,63.77200,Dresses,"Jones New York Women's Lace Pleated Dress","Jones New York",149.00,Women,F023559C6D59C04E3804209F573DBFF9,3
+3192,149.05800,Dresses,"BCBGMAXAZRIA Women's Rivas Short Cocktail Dress With Cross Front",BCBGMAXAZRIA,338.00,Women,766E428D1E232BBDD58664B41346196C,3
+3193,22.60219,Dresses,"Lindy Bop Vintage 50S Audrey Hepburn Style Swing Party Rockabilly Evening Dress","Lindy Bop",46.99,Women,68A9750337A418A86FE06C1991A1D64C,7
+3194,66.79200,Dresses,"Miss Sixty Women's Penelope Dress","Miss Sixty",138.00,Women,563CA5E068BC78B807910338BB4D4279,2
+3195,41.40794,Dresses,"Jax Women's Satin Dress",Jax,101.99,Women,7F01C939761597F9B832694D4C381512,8
+3196,21.42744,Dresses,"Lindy Bop 'Grace' Vintage 1950's Rockabilly Style Bengaline Swing Party Evening Dress","Lindy Bop",46.99,Women,6C4BB406B3E7CD5447F7A76FD7008806,7
+3197,55.09700,Dresses,"Jones New York Women's Matte Jersey Mock Jacket Dress","Jones New York",119.00,Women,721E7285B298CDE5B3D0C973ED8D7B63,3
+3198,60.30000,Dresses,"Jones New York Women's Printed Matte Jersey Side Zipper Dress","Jones New York",134.00,Women,B08354F3688C4E4E8C52C207D7D5B8C3,3
+3199,50.00400,Dresses,"Calvin Klein Women's Side Ruffle Dress","Calvin Klein",108.00,Women,B59307FDACF7B2DB12EC4BD5CA1CABA8,3
+3200,91.47116,Dresses,"Eliza J Women's One Shoulder Gown With Beaded Patch At Waist","Eliza J",188.99,Women,731AE30AF8750C2D28720EA3C1F8C2B1,2
+3201,48.69700,Dresses,"Jax Women's Colorblock Dress",Jax,116.50,Women,24EC8468B67314C2013D215B77034476,8
+3202,28.38000,Dresses,"Julian Taylor Women's Sleeveless Lace Bodice Dress","Julian Taylor",60.00,Women,7486CEF2522EE03547CFB970A404A874,5
+3203,17.91552,Dresses,"Plus Size Sequined Princess Ruffle Dress Black Red","eVogues Apparel",39.99,Women,799DE6D3DAE4C924142CF245A1D7F703,5
+3204,5.40345,Dresses,"Allegra K Women Bowknot Detail Scoop Neck Dots Print Mini Dress Green M w Belt","Allegra K",11.05,Women,640258597CBC50037072712F964CF5D8,9
+3205,71.06823,Dresses,"Eliza J Women's One Shoulder Dress With Beaded Patch At Side Waist","Eliza J",148.99,Women,9EF2ED4B7FD2C810847FFA5FA85BCE38,2
+3206,38.31500,Dresses,"AGB Women's Long Sleeve Striped Sweater Dress",AGB,79.00,Women,211ED78FE91938B90F84A51944B08D5A,1
+3207,20.17806,Dresses,"Jessica Howard Women's 3/4 Sleeve Crochet Blouson","Jessica Howard",44.94,Women,D77E68596C15C53C2A33AD143739902D,3
+3208,17.09055,Dresses,"2B Double Peplum Metallic Dress","2b by bebe",34.95,Women,2EF248C04979D6B3A7B283EC3DC32CCA,5
+3209,62.72000,Dresses,"Calvin Klein Women's Lux Stretch Rayon Career Dress","Calvin Klein",128.00,Women,1271A7029C9DF08643B631B02CF9E116,3
+3210,47.92200,Dresses,"KAMALIKULTURE Women's Long Sleeve Side Draped Dress",KAMALIKULTURE,98.00,Women,731309C4BB223491A9F67EAC5214FB2E,9
+3211,7.43500,Dresses,"Allegra K Ladies Black Long Dolman Sleeve Zipper Neck Pullover Loose Dress L","Allegra K",14.87,Women,6B620AEDFA4CF153467265629501DD61,9
+3212,25.74000,Dresses,"Bobi Women's Modal Jersey Cowl Neck Dress",Bobi,60.00,Women,0AAE0FEDE9A4D278E2F9A171E62FC76B,1
+3213,34.63567,Dresses,"Tiana B Women's Falling Feathers Dress","Tiana B",79.99,Women,9BD5EE6FE55AAEB673025DBCB8F939C1,7
+3214,60.16600,Dresses,"Jones New York Women's Printed Matte Jersey Bateau Neck Godet Dress","Jones New York",134.00,Women,89D4402DC03D3B7318BBAC10203034AB,3
+3215,29.27352,Dresses,"Moonar Chiffon One Shoulder Prom Formal Gown Full Length Party Bridemaid Dress",Moonar,67.92,Women,E2EACAFF46787BFEEFCAA24CF35264C7,5
+3216,15.49584,Dresses,"Patty Women Sexy Drape Cowl Neck Long Sleeve Party Knit Dress",Patty,37.98,Women,133B3752E52BAE42230364CB720F81F7,1
+3217,15.00642,Dresses,"Patty Women Comfy Off Shoulder Long Sleeve Fitted Casual Dress",Patty,34.98,Women,52EDC4A5890ADC59CEC82CB60F8AF691,1
+3218,11.07500,Dresses,"Alki'i Missy Hibiscus Tank Top Summer Beach Sun Dress - OahuPrint",Alki'i,25.00,Women,B0169350CD35566C47BA83C6EC1D6F82,1
+3219,58.37400,Dresses,"Maxandcleo Women's Ava Dress",maxandcleo,138.00,Women,94B5BDE6DE888DDF9CDE6748AD2523D1,10
+3220,61.01700,Dresses,"Jones New York Women's Sweater Dress","Jones New York",129.00,Women,5812F92450CCAF17275500841C70924A,3
+3221,4.42714,Dresses,"Allegra K Ladies Scoop Neck Sleeveless Lace Upper Detail Casual Dress Green XS","Allegra K",9.86,Women,F5C150AFBFBCEF941DEF203E85CF40BC,9
+3222,61.83085,Dresses,"Eliza J Women's Cap Sleev Boat Neck Belted Dress With Topstitch Detail","Eliza J",148.99,Women,687FD5C7E0142DFB2DA70E5083B3C6A7,2
+3223,57.98400,Dresses,"Calvin Klein Women's Matte Jersey Career Dress","Calvin Klein",128.00,Women,DF83971673DE5C8E71CA1E2645718DAD,3
+3224,41.73600,Dresses,"Jessica Simpson Women's Pointed Ruffle Skirt Strapless Dress","Jessica Simpson",88.80,Women,0D352B4D3A317E3EAE221199FDB49651,4
+3225,73.78600,Dresses,"Jax Women's Satin Dress",Jax,158.00,Women,6DFE08EDA761BD321F8A9B239F6F4EC3,8
+3226,20.05662,Dresses,"Suzi Chin Women's Faux Wrap Dress","Suzi Chin",44.97,Women,907EDB0AA6986220DBFFB79A788596EE,3
+3227,24.78141,Dresses,"Patty Women Gorgeous Hoodie Cable Jumper Knit Casual Party Mini Dress",Patty,53.99,Women,AAC61539FD1FB209B44B9F9D0D8D28AC,1
+3228,65.48942,Dresses,"Jax Women's Split Shoulder Dress",Jax,142.99,Women,040A99F23E8960763E680041C601ACAB,8
+3229,8.22195,Dresses,"Allegra K Women Point Collar Button up Long Sleeve Mini Dress White S","Allegra K",18.15,Women,85AE750AD1DBDC5C2703BCFE97E77152,9
+3230,11.97600,Dresses,"American Apparel Sheer Jersey Chemise","American Apparel",24.00,Women,C12706A7C6E8D6476C3D2B6AE0042A82,8
+3231,65.12000,Dresses,"Jessica Simpson Women's Sleeveless Multi Media Dress with Full Skirt","Jessica Simpson",148.00,Women,C3D377D10B13F8B39BF1218A60FE77B1,4
+3232,18.99000,Dresses,"Volcom Juniors Neon Sunset Long Sleeve Dress",Volcom,45.00,Women,12E086066892A311B752673A28583D3F,4
+3233,46.43100,Dresses,"KAMALIKULTURE Women's Racer Maxi Gown",KAMALIKULTURE,99.00,Women,B6D67A24906E8A8541291882F81D31CA,9
+3234,21.05152,Dresses,"Lindy Bop 'Odette' Classy Vintage 1950s Black + Cream Collared Flared Swing Party Evening Dress","Lindy Bop",46.99,Women,C5658C711BA9170700FC7D3EE3F63E40,7
+3235,48.11800,Dresses,"maxandcleo Women's Camille Dress",maxandcleo,98.00,Women,F87522788A2BE2D171666752F97DDEBB,10
+3236,5.22070,Dresses,"Allegra K Women Stretchy One Shoulder Pullover Cocktail Party Dress w Waistband Black M","Allegra K",12.58,Women,DDCB155487B88AAA80AED158006BDBDF,9
+3237,11.41677,Dresses,"Womens Elegant Faux Wrap Slimming V Neck 3/4 Sleeve Dress",Argenti,26.99,Women,544A4F59F691574154A60B8539EBF914,7
+3238,19.97075,Dresses,"Lindy Bop Classy Vintage Audrey Hepburn Style 1950's Rockabilly Swing Evening Dress","Lindy Bop",46.99,Women,528AECDF9CF67E516DFD5EAA675CCFD9,7
+3239,40.49595,Dresses,"Jessica Simpson Women's One-Shoulder Sequin Dress","Jessica Simpson",99.99,Women,AE3539867AAEEC609A4260C6FEB725F4,4
+3240,63.99000,Dresses,"BCBGMAXAZRIA Women's Daly V-Neck Shirt Dress",BCBGMAXAZRIA,158.00,Women,D15426B9C324676610FBB01360473ED8,3
+3241,17.91552,Dresses,"Plus Size Zipper Front Belt Accented Mini Dress Black","eVogues Apparel",39.99,Women,A64BD53139F71961C5C31A9AF03D775E,5
+3242,29.34120,Dresses,"Gabby Skye Women's Pleated Dress","Gabby Skye",58.80,Women,032DD17B77FAB7D51A476C5FF2B5659C,1
+3243,27.40080,Dresses,"Gabby Skye Women's Lace Twofer Dress","Gabby Skye",58.80,Women,38811C5285E34E2E3319AB7D9F2CFA5B,1
+3244,93.81200,Dresses,"maxandcleo Women's Janet Evening Dress",maxandcleo,188.00,Women,88E1CE84F9FEEF5A08D0DF0334C53468,10
+3245,21.34573,Dresses,"Roxy Juniors Fall Doll Tube Dress",Roxy,49.99,Women,0E1EBAD68AF7F0AE4830B7AC92BC3C6F,2
+3246,4.67484,Dresses,"Allegra K Ladies Sleeveless Scoop Neck Striped Mini Dress Blue Green White XS","Allegra K",9.78,Women,D309CD6396E744600C943FADA20F686A,9
+3247,40.06393,Dresses,"Anne Klein Women's Faux Wrap Dress","Anne Klein",85.79,Women,AC45088DF2E8D3CD2D8FBAFCEB920878,2
+3248,58.69500,Dresses,"Nine West Dresses Women's 3/4 Sleeve Lace Sheath Dress","Nine West",129.00,Women,C57ABE86DE4E516E12DFA386053FBFE2,10
+3249,18.08811,Dresses,"Designer Gathered Empire Flowy Evening Prom Party Dress","Hot from Hollywood",36.99,Women,0613239E122094ABB4EF998C01D16958,1
+3250,56.44200,Dresses,"Jax Women's Contrast Lining Dress",Jax,138.00,Women,326FB04C3ABF030FE3F4E341F39B573F,8
+3251,5.32908,Dresses,"Allegra K Woman Deep V Neck Gold Tone Stud Decor Stretchy Tank Dress Black XS","Allegra K",11.79,Women,504C296F8EB5FD521E744DA4E8371F28,9
+3252,8.73563,Dresses,"Womens Long Sleeved Belted Midi Length Dress","VIP BOUTIQUE",19.99,Women,1E3B21CB226C39B6AA4634F820B372F3,5
+3253,103.50000,Dresses,"Bailey 44 Women's Venom Dress","Bailey 44",207.00,Women,4AD13F04EF4373992C9D3046200AA350,6
+3254,16.53176,Dresses,"Black & Sequins Padded Underwire Bra Adjustable Ruched Fitted Clubwear Mini Dress","Hot from Hollywood",38.99,Women,8DEB8D1DD92840F975B6931AB3A3C61E,1
+3255,5.86311,Dresses,"Alki'i Sundress/Coverup/casual dress with shoulder straps (6 prints)",Alki'i,11.99,Women,2067E2650CD701AE71C68080F9DBBDC1,1
+3256,28.38240,Dresses,"Gabby Skye Women's One Piece Beaded Dress","Gabby Skye",64.80,Women,2131F8ECF18DB66A758F718DC729E00E,1
+3257,6.30750,Dresses,"Dollhouse Vampira Bustier Mini Dress",dollhouse,14.50,Women,4EA83D951990D8BF07A68EC3E50F9156,9
+3258,42.18600,Dresses,"Jones New York Women's Cap Sleeve Dress","Jones New York",89.00,Women,485843481A7EDACBFCE101ECB1E4D2A8,3
+3259,18.79530,Dresses,"Sleeveless Rhinestone Empire Waist Sheer Layer Evening Cocktail Party Dress","Hot from Hollywood",39.99,Women,A87D27F712DF362CD22C7A8EF823E987,1
+3260,4.65205,Dresses,"Allegra K Woman Ruched Front Sleeveless Tube One-piece Dress Dark Blue M","Allegra K",11.05,Women,D54CE9DE9DF77C579775A7B6B1A4BDC0,9
+3261,6.08814,Dresses,"Allegra K Women Self Tie Bowknot Shoulder Flower Print V Neck Dress Red XS","Allegra K",13.62,Women,95177E528F8D6C7C28A5473FD5A471B6,9
+3262,53.37600,Dresses,"Miss Sixty Women's Ansley Dress with Cutouts","Miss Sixty",128.00,Women,8A50BAE297807DA9E97722A0B3FD8F27,2
+3263,17.79555,Dresses,"Cross Back Fitted Bandage Clubwear Cocktail Party Dress","Hot from Hollywood",39.99,Women,F8037F94E53F17A2CC301033CA86D278,1
+3264,16.07598,Dresses,"Tube Fitted Lace Strapless Evening Cocktail Prom Party Dress with Bow","Hot from Hollywood",39.99,Women,F0EAF559F89CA17022783964EBE9CDFD,1
+3265,11.25000,Dresses,"Alki'i Missy Hibiscus Halter Summer Beach Sun Dress - Kauai Print",Alki'i,25.00,Women,F4334C131C781E2A6F0A5E34814C8147,1
+3266,6.44640,Dresses,"Allegra K Black Knitting Cross V Neck Stretchy Tunic Dress S for Women","Allegra K",13.43,Women,AC73001B1D44F4925449CE09D9F5D5CA,9
+3267,26.90640,Dresses,"maxandcleo Women's Alanna Cocktail Dress",maxandcleo,66.60,Women,073B00AB99487B74B63C9A6D2B962DDC,10
+3268,180.91000,Dresses,"Rebecca Taylor Women's Lace Dress","Rebecca Taylor",395.00,Women,A4D92E2CD541FCA87E4620ABA658316D,8
+3269,179.33000,Dresses,"Rebecca Taylor Women's Lace Dress","Rebecca Taylor",395.00,Women,C91E3483CF4F90057D02AA492D2B25B1,8
+3270,34.35080,Dresses,"maxandcleo Women's Kayla Colorblock Dress",maxandcleo,81.40,Women,3F7BCD0B3EA822683BBA8FC530F151BD,10
+3271,39.57591,Dresses,"Horny Toad Women's Oolong Longsleeve Dress","Horny Toad",83.67,Women,BFBB56BEE68D99AFFAA64F189045D5F2,1
+3272,21.79564,Dresses,"Strapless Gown Formal Evening Party Special Occassion Long Maxi Dress","Hot from Hollywood",49.99,Women,79514E888B8F2ACACC68738D0CBB803E,1
+3273,53.63200,Dresses,"Jessica Simpson Women's Sweater Top Combo Dress","Jessica Simpson",128.00,Women,9C8661BEFAE6DBCD08304DBF4DCAF0DB,4
+3274,41.70000,Dresses,"Icebreaker Women's Villa Dress",Icebreaker,100.00,Women,2B323D6EB28422CEF49B266557DD31AD,1
+3275,9.75512,Dresses,"Curve Appeal Cowl Neck Short Sleeve Sweater with Contrast PU Belt","Curve Appeal",19.99,Women,52B738B303D90A884137546353E09EBB,8
+3276,23.56800,Dresses,"Julian Taylor Women's Printed Stripe Ponte Dress","Julian Taylor",48.00,Women,B58AC8403EB9CF17FAE1DCD16DF71FDE,5
+3277,21.20000,Dresses,"Star Vixen Women's Plus-Size Full Wrap Dress","Star Vixen",50.00,Women,FD8C07A31F8A85910AD8476F5F7EFB27,3
+3278,20.64000,Dresses,"Julian Taylor Women's Striped Ponte Dress","Julian Taylor",48.00,Women,F507783927F2EC2737BA40AFBD17EFB5,5
+3279,38.16400,Dresses,"KAMALIKULTURE Women's Sleeveless Side Draped Dress",KAMALIKULTURE,94.00,Women,706608CFDBCC1886BB7EEA5513F90133,9
+3280,15.91200,Dresses,"American Apparel California Fleece Pullover Raglan Hoodie Dress","American Apparel",39.00,Women,CC9657884708170E160C8372D92F3535,8
+3281,4.82443,Dresses,"Allegra K Women Dots Print Flouncing Collar Elastic Waist Summer Dress Off White Black S w Belt","Allegra K",10.03,Women,60A70BB05B08D6CD95DEB3BDB750DCE8,9
+3282,8.08724,Dresses,"VIP Boutique Womens Long Sleeved Bodycon Tunic Dress","VIP BOUTIQUE",16.99,Women,A495EEBBFA243B79C5B9B224C482D0C2,5
+3283,6.86400,Dresses,"Allegra K Women Scoop Neck Long Sleeve Bar Striped Dress Black Red White XS","Allegra K",15.60,Women,C819904DDE95535C60452B16C1C494F6,9
+3284,53.63200,Dresses,"Calvin Klein Women's Chiffon Dress","Calvin Klein",128.00,Women,C1D0F19C3F827DAF0EDD3E69C3B195A9,3
+3285,4.77930,Dresses,"Allegra K Lady Tiered Layered Bowknot Decor Shoulder Elastic Waist Dress Black XS","Allegra K",10.74,Women,72B386224056BF940CD5B01341F65E9D,9
+3286,17.35008,Dresses,"Patty Women V Neck Bow Front Short Sleeve Cocktail Party Flow Dress",Patty,34.98,Women,9DDB9DD5D8AEE9A76BF217A2A3C54833,1
+3287,73.94400,Dresses,"Luna Lace Dress",Kiyonna,158.00,Women,946E3ECE1FC8B24BD656449D88ECA941,3
+3288,16.03599,Dresses,"Plus Size Black Sequined Princess Ruffle Dress","eVogues Apparel",39.99,Women,B98249B38337C5088BBC660D8F872D6A,5
+3289,5.65656,Dresses,"Allegra K Women Dots Print Elastic Waist Mini Dress Black Beige L w Brown Belt","Allegra K",12.74,Women,645E6BFDD05D1A69C5E47B20F0A91D46,9
+3290,6.56820,Dresses,"Allegra K Woman Dolman Sleeve Side Shirr Blouse + Tank Dress Black L","Allegra K",14.76,Women,3A30BE93EB45566A90F4E95EE72A089A,9
+3291,60.04297,Dresses,"Eliza J Women's Sleevless Pleated Neck With Lace Detail And Pleats At Waist","Eliza J",148.99,Women,980A875FF6EF9C2D75E74307CBF5D205,2
+3292,44.59000,Dresses,"Whimsy Wrap Dress",Kiyonna,98.00,Women,CFCCE0621B49C983991EAD4C3D4D3B6B,3
+3293,5.80337,Dresses,"Allegra K Women Scoop Neck Elastic Waist Chiffon Dress Dark Purple XS","Allegra K",11.63,Women,CA3EC598002D2E7662E2EF4BDD58278B,9
+3294,27.34800,Dresses,"Roxy Juniors Crochet Dreams Long Sleeve Dress",Roxy,64.50,Women,7A430339C10C642C4B2251756FD1B484,2
+3295,7.30287,Dresses,"Allegra K Ladies Double Breast Long Sleeve Spring Mini Dress Black L","Allegra K",15.31,Women,D5D7F5BBA709F5CBBE1F74977096FEB3,9
+3296,18.36429,Dresses,"Black Wrap Bodice Empire waist plus size Dress","eVogues Apparel",38.99,Women,42CD63CB189C30ED03E42CE2C069566C,5
+3297,18.87528,Dresses,"Kimono Sleeve Empire Rhinestone Fitted Party Mini Dress","Hot from Hollywood",39.99,Women,7A4BF9BA2BD774068AD50351FB898076,1
+3298,32.27040,Dresses,"Gabby Skye Women's One Piece Flocked Velvet Dress","Gabby Skye",64.80,Women,FA84632D742F2729DC32CE8CB5D49733,1
+3299,12.92800,Dresses,"American Apparel Solid Rib Turtleneck Dress","American Apparel",32.00,Women,7371364B3D72AC9A3ED8638E6F0BE2C9,8
+3300,49.33500,Dresses,"Evolution by Cyrus Women's Long Sleeve Sharkbite Tunic dress","Evolution by Cyrus",115.00,Women,63BFD6E8F26D1D3537F4C5038264EF36,4
+3301,21.97360,Dresses,"London Times Women's Stretch Charmeus Tuck Sheath Dress","London Times",49.94,Women,8217BB4E7FA0541E0F5E04FEA764AB91,3
+3302,11.12500,Dresses,"Alki'i Missy Hibiscus Tube Summer Beach Sun Dress - Maui Print",Alki'i,25.00,Women,6FAB6E3AA34248EC1E34A4AEEDECDDC8,1
+3303,3.84319,Dresses,"LnLClothing Ladies Fashion Over Size Collar / Cable Knit Sweater Dress ID.62009.BL.35C",LnLClothing,7.99,Women,F24AD6F72D6CC4CB51464F2B29AB69D3,1
+3304,17.83554,Dresses,"Little Convertible Dress or Skirt 8 Different Looks Made in USA Sizes S M or L",Elan,39.99,Women,0E9D935F7E3F2B502450C049DDBC7C92,3
+3305,54.27200,Dresses,"Calvin Klein Women's Ponte Career Dress","Calvin Klein",128.00,Women,B848EDAE25876384476F8970B8491160,3
+3306,33.46512,Dresses,"AK Anne Klein Women's Cap Sleeve Scoopneck Solid Dress","Anne Klein",67.47,Women,16FC18D787294AD5171100E33D05D4E2,2
+3307,31.74600,Dresses,"Switchblade Stiletto Womens DARLING DRESS in Choice of Colors and Patterns","Switchblade Stiletto",66.00,Women,D7AAB42E6B85C49C0F1D3A115E939C74,5
+3308,18.34800,Dresses,"American Apparel Velvet Long Sleeve Mini Dress","American Apparel",44.00,Women,C4B43AE017AF4001C5193D310BF00942,8
+3309,72.52200,Dresses,"Jax Women's Colorblock",Jax,158.00,Women,2B7B82A7EC6DE40781FD6EF338B41892,8
+3310,29.16771,Dresses,"KAMALIKULTURE Women's Long Sleeve Side Draped Dress",KAMALIKULTURE,67.99,Women,69386F6BB1DFED68692A24C8686939B9,9
+3311,15.98958,Dresses,"Patty Women Convertible V Neck / One Shoulder Open Back Ruched Evening Dress",Patty,37.98,Women,BDD8817990EF209F0FB6B049F2D2EA0C,1
+3312,65.19100,Dresses,"Jones New York Women's Side Ruffle Dress","Jones New York",139.00,Women,334467D41D5CF21E234465A1530BA647,3
+3313,6.40764,Dresses,"Allegra K Ladies Horizontal Stripes Blue Cuff Detail Pullover Spring Short Dress Dark Gray Black M","Allegra K",13.96,Women,09060616068D2B9544DC33F2FBE4CE2D,9
+3314,20.09598,Dresses,"Strapless Tube Pleated Evening Prom Cocktail Party Satin Womens Mini Dress","Hot from Hollywood",49.99,Women,C46482DD5D39742F0BFD417B492D0E8E,1
+3315,9.95505,Dresses,"National Polyester Slip-on Dress",National,19.95,Women,62DAD6E273D32235AE02B7D321578EE8,4
+3316,58.02500,Dresses,"Jessica Howard Women's 2 Piece 3/4 Sleeve Bolero Jacket Party Dress","Jessica Howard",137.50,Women,8CE5D989374D216A867CDC8871484B43,3
+3317,71.28000,Dresses,"laundry BY SHELLI SEGAL Women's Printed Matte Jersey Shift Dress","laundry by SHELLI SEGAL",165.00,Women,2C758933AF02C0B301906F2819AE1268,1
+3318,62.82300,Dresses,"DKNYC Women's Plus-Size Long Sleeve Boatneck Dress With Exposed Zipper",DKNYC,129.00,Women,831B1AC54CC8DB480E3BABAC5FA2256B,2
+3319,24.29595,Dresses,"Tiana B Women's Perfect Little Dress","Tiana B",59.99,Women,8A1D694707EB0FEFE65871369074926D,7
+3320,7.75554,Dresses,"Allegra K Women Convertible Collar Double Breast Long Sleeve Autumn Dress Black M","Allegra K",15.86,Women,36ED197B3F31618FDBADB3DF86F804BD,9
+3321,63.67400,Dresses,"Suzi Chin Women's Sequin Sheath","Suzi Chin",158.00,Women,3CFBDF468F0A03187F6CEE51A25E5E9A,3
+3322,15.86871,Dresses,"Long Sleeve Cable Knit Turtleneck Sweater Warm Winter Mini Dress Top S M L","Hot from Hollywood",36.99,Women,F7CFDDE9DB36AF8E0D9A6D123D5C385E,1
+3323,18.11547,Dresses,"Sleeveless Low Cut Scoop Neck Fitted Sequins Evening Party Cocktail Dress S M L","Hot from Hollywood",39.99,Women,A4351B79D9EA3D842EFA89FAE5D02B24,1
+3324,4.14238,Dresses,"Allegra K Women Two Color Scoop Neck Sleeveless Casusal Chiffon Dress","Allegra K",9.91,Women,3CE6D3C8830D27EC2E6A1936ECBAA514,9
+3325,83.07000,Dresses,"Robert Rodriguez Women's V-Neck Mini Dress","Robert Rodriguez",195.00,Women,936824C0191953647EC609B4F49BC964,3
+3326,8.35582,Dresses,"Sugarlips Seamless Dress Cami",Sugarlips,19.99,Women,DBA132F6AB6A3E3D17A8D59E82105F4C,6
+3327,19.45565,Dresses,"Studio by London Times - Stretch Knit Floral Sheath Dress","London Times",39.95,Women,20B02DC95171540BC52912BAF3AA709D,3
+3328,30.22670,Dresses,"Anne Klein Women's Petite Dress","Anne Klein",74.45,Women,E94FE9AC8DC10DD8B9A239E6ABEE2848,2
+3329,45.99540,Dresses,"Jessica Howard Women's 1 Piece Bell Sleeve Shift Dress","Jessica Howard",99.99,Women,AC8CD1808DC30460A81CAB1B0E6652FA,3
+3330,5.88588,Dresses,"Allegra K Women Zipper Closure Hooded Short Sleeve Mini Dress Navy Blue XS","Allegra K",12.74,Women,2996962656838A97AF4C5F926FE6F1B0,9
+3331,35.24530,Dresses,"Roamans Plus Size Side Bow Swimdress",Roamans,74.99,Women,0A2A51DAC6138826127F093500461D91,7
+3332,4.46733,Dresses,"Allegra K Woman Solid Khaki Scoop Neck Dolman Sleeve Banded Dress M","Allegra K",10.13,Women,B0AB42FCB7133122B38521D13DA7120B,9
+3333,136.78200,Dresses,"BCBGMAXAZRIA Women's Magde Strapless Cocktail Dress",BCBGMAXAZRIA,298.00,Women,2BE9BD7A3434F7038CA27D1918DE58BD,3
+3334,15.26151,Dresses,"Leos Mexican Imports Mexican Dress Puebla",Leo's,33.99,Women,331316D4EFB44682092A006307B9AE3A,3
+3335,9.15315,Dresses,"National Polyester Slip-on Dress Plus",National,21.95,Women,59A3ADEA76FADCB6DD9E54C96FC155D1,4
+3336,77.83750,Dresses,"Sofie Women's Cashmere V-Neck Long Sleeve Dress",Sofie,162.50,Women,98BD65207EE83BFD17EBB0DB971EDDF9,2
+3337,19.73580,Dresses,"Lindy Bop 'Laney' Chic Vintage 50's Style Black Bengaline Pencil Wiggle Dress","Lindy Bop",46.99,Women,A4FA7175D4757E45EAC71A8487751F63,7
+3338,4.99472,Dresses,"Allegra K Lady Boat Neck Dolman Sleeve Pockets Detail Casual Mini Dress Black S","Allegra K",10.07,Women,2DE7CF2043693DB2EE898479A6E44529,9
+3339,16.82700,Dresses,"Roxy Juniors Savage Dress",Roxy,39.50,Women,7BA0691B7777B6581397456412A41390,2
+3340,14.41176,Dresses,"Patty Women Elegant Square Neck Ruched Evening Cocktail Party Dress",Patty,34.98,Women,F471223D1A1614B58A7DC45C9D01DF19,1
+3341,51.73200,Dresses,"Karen Kane Women's Long Sleeve Wrap Dress","Karen Kane",108.00,Women,ACF06CDD9C744F969958E1F085554C8B,4
+3342,32.61195,Dresses,"Anne Klein Women's Ponte Swing Dress","Anne Klein",74.97,Women,14491B756B3A51DAAC41C24863285549,2
+3343,69.38400,Dresses,"Retro Glam Lace Dress",Kiyonna,168.00,Women,21C5BBA1DD6AED9AB48C2B34C1A0ADDE,3
+3344,17.39003,Dresses,"Patty Women Ruched V Neck Dropped Waist Evening Clubwear Mini Dress",Patty,34.99,Women,3083202A936B7D0EF8B680D7AE73FA1A,1
+3345,57.99500,Dresses,"Calvin Klein Women's Scuba Dress","Calvin Klein",115.99,Women,38A77AA456FC813AF07BB428F2363C8D,3
+3346,38.00497,Dresses,"Anne Klein Women's Two Tone Mixed Media Dolman Dress","Anne Klein",85.79,Women,0655F117444FC1911AB9C6F6B0139051,2
+3347,123.67000,Dresses,"BCBGMAXAZRIA Women's Enna Chevron Sequin Shift Dress",BCBGMAXAZRIA,298.00,Women,1A04F965818A8533F5613003C7DB243D,3
+3348,43.38250,Dresses,"Adrianna Papell Women's Blouson Top Dress","Adrianna Papell",92.50,Women,333CB763FACC6CE398FF83845F224D62,10
+3349,3.34781,Dresses,"LnLClothing Ladies Fashion Fold Over Sweater Dress ID.65302.BR.3E",LnLClothing,7.99,Women,69F268FB2BA1068615B3219C6E8F57E8,1
+3350,5.99280,Dresses,"Allegra K Woman Stud Leopard Print Dolman Sleeve Mini Dress Black L","Allegra K",13.62,Women,B7EE0D0D4D5EF995AAE0FC691E6D840D,9
+3351,41.48000,Dresses,"Bobi Women's Supreme Jersey Cutout Sleeve Dress",Bobi,85.00,Women,0B6ACE9E8971CF36F1782AA982A708DB,1
+3352,14.43435,Dresses,"2B Gabrielle Tank Maxi Dress","2b by bebe",34.95,Women,0987B8B338D6C90BBEDD8631BC499221,5
+3353,24.81544,Dresses,"Patty Women Comfy Black Hoodie Cable Jumper Knit Casual Party Long Maxi Dress",Patty,57.98,Women,8B9E7AB295E87570551DB122A04C6F7C,1
+3354,16.29782,Dresses,"Sheer Spaghetti Strap Floral Layer Evening Bridesmaid Party Cocktail Dress S M L","Hot from Hollywood",38.99,Women,D2CD33E9C0236A8C2D8BD3FA91AD3ACF,1
+3355,25.07582,Dresses,"Funfash NEW Funfash Slimming Black Gray Long Maxi Cocktail Dress Plus Size Made in USA",Funfash,59.99,Women,CA793D8B79C1B6665CF109D6077A8277,1
+3356,17.14510,Dresses,"Long Sleeve Turtle Neck Warm Winter Casual Maxi Ribbed Sweater Dress S M L","Hot from Hollywood",34.99,Women,A36B598ABB934E4528412E5A2127B931,1
+3357,61.61526,Dresses,"Mother of the Bride Formal Evening Dress #2571","US Fairytailes",129.99,Women,0CD6A652ED1F7811192DB1F700C8F0E7,3
+3358,11.41677,Dresses,"US Polo Assn. Juniors Sweater Dress","U.S. Polo Assn.",26.99,Women,97108695BD93B6BE52FA0334874C8722,7
+3359,28.67400,Dresses,"Ever Pretty Women's Charm Strapless Polka Mini Dress",Ever-Pretty,59.00,Women,82B0639A82D0CC70B8F5830FD2B06868,8
+3360,173.84400,Dresses,"Parker Women's Beaded Shift Dress",Parker,396.00,Women,75DF63609809C7A2052FDFFE5C00A84E,7
+3361,127.29600,Dresses,"French Connection Women's Lust Sequins Dress","French Connection",288.00,Women,8D9766A69B764FEFC12F56739424D136,5
+3362,19.08170,Dresses,"Patty Women Turtleneck Long Sleeve Knitwear Mini Jumper Dress",Patty,45.98,Women,39CD7B469BEAE7C617C73E0D008195EF,1
+3363,3.99376,Dresses,"Allegra K Women Scoop Neck Sleeveless Swallow Print Beige Chiffon Dress XS","Allegra K",8.72,Women,664DD858DB942CAD06F24FF25DF56716,9
+3364,5.05428,Dresses,"Allegra K Woman Hollow Shoulder Dolman Sleeve Stripe Hem Dress Gray L","Allegra K",10.94,Women,8A1EE9F2B7ABE6E88D1A479AB6A42C5E,9
+3365,80.50000,Dresses,"Only Hearts Women's Leopard Jacquard Peplum Dress","Only Hearts",161.00,Women,B445E314138101EECC58503E98AA2B2D,1
+3366,9.79510,Dresses,"One-size-fits-most Tube Dress/Coverup - Leopard Rose (many colors)",Alki'i,19.99,Women,07F75D9144912970DE5A09F5A305E10C,1
+3367,11.00295,Dresses,"National Crinkle Cotton Dress",National,24.95,Women,0E7E05FA1026B0C5459267608AE320B8,4
+3368,7.09352,Dresses,"Allegra K Woman Long Sleeve Belt Loop Baggy Pockets Dress Dark Gray S","Allegra K",14.84,Women,165A59F7CF3B5C4396BA65953D679F17,9
+3369,5.37453,Dresses,"Collections Etc - Banded Collar 3/4 Sleeve Knit Dress","Samanthas Style Shoppe",11.97,Women,DDA99DE58FF020CFB57FEC1404C97003,6
+3370,63.70000,Dresses,"Christopher Fischer Women's 100% Cashmere Fitted Dress","Christopher Fischer",130.00,Women,900C563BFD2C48C16701ACCA83AD858A,2
+3371,18.87528,Dresses,"FITTED RUCHED SEXY LEOPARD STRAPLESS PARTY MINI DRESS","Hot from Hollywood",39.99,Women,285DA2198B2B496C9D447CC4AC6B0734,1
+3372,22.22627,Dresses,"Lindy Bop 'Bonnie' Black Polka Dot Vintage 1950'S Rockabilly Pinup Halter Party Swing Dress","Lindy Bop",46.99,Women,37D0B499FB84A552C17FCBB1442D7895,7
+3373,8.45577,Dresses,"Curve Appeal Cowl Neck Soft Weave Sweater with Dolman Cap Sleeves","Curve Appeal",19.99,Women,0084AE4BC24C0795D1E6A4F58444D39B,8
+3374,22.97811,Dresses,"Lindy Bop 'Bonnie' Black Polka Dot Vintage 1950'S Rockabilly Pinup Halter Party Swing Dress","Lindy Bop",46.99,Women,6C349155B122AA8AD5C877007E05F24F,7
+3375,3.90208,Dresses,"Allegra K Woman Colour Block Sleeveless Square Neckline Tank Dress XS","Allegra K",8.71,Women,9B9B05072DD20D1CC3E54607B84C889B,9
+3376,4.95558,Dresses,"Collections Etc - Banded Collar 3/4 Sleeve Knit Dress","Samanthas Style Shoppe",11.97,Women,14E422F05B68CC0139988E128EE880DF,6
+3377,52.09600,Dresses,"Betsey Ruched Dress",Kiyonna,128.00,Women,A9B4EC2EB4AB7B1B9C3392BB5388119D,3
+3378,6.29580,Dresses,"VIP Boutique Womens 3/4 Sleeved Bodycon Dress Top","VIP BOUTIQUE",14.99,Women,2E2C080D5490760AF59D0BAF5ACBB84E,5
+3379,34.71504,Dresses,"Tiana B Women's Printed To Perfection Dress","Tiana B",69.99,Women,88855547570F7FF053FFF7C54E5148CC,7
+3380,20.25269,Dresses,"Lindy Bop 'Cassy' Red Polka Dot Vintage 1950's Parisian Style Collared Bow Dress","Lindy Bop",46.99,Women,F2BFF080785C76AA81DBAFFCE7DEA0AD,7
+3381,6.75136,Dresses,"Allegra K Ladies Dark Gray Point Collar Long Sleeve Belted Dress M","Allegra K",15.07,Women,6E16656A6EE1DE7232164767CCFA7920,9
+3382,17.02799,Dresses,"Evolution by Cyrus Women's Boat Neck Dress","Evolution by Cyrus",41.23,Women,29DDBDB402491A6AA97964A8139A1356,4
+3383,166.32000,Dresses,"Parker Women's Strapless Studded Dress",Parker,396.00,Women,0668E20B3C9E9185B04B3D2A9DC8FA2D,7
+3384,73.26000,Dresses,"Eliza J Women's 1 Piece Ruffle V-Neck Inset Waist Sheath Dress with Belt","Eliza J",148.00,Women,2517756C5A9BE6AC007FE9BB7FB92611,2
+3385,21.04579,Dresses,"Jump Juniors Fashion Sweater Dress With 3/4 Sleeve",JUMP,49.99,Women,131F383B434FDF48079BFF1E44E2D9A5,9
+3386,28.65590,Dresses,"KAMALIKULTURE Women's All In One Dress",KAMALIKULTURE,60.97,Women,31CA0CA71184BBDB3DE7B20A51E88E90,9
+3387,83.49600,Dresses,"maxandcleo Women's Anna Mesh Dress",maxandcleo,168.00,Women,4A11654AD1E1E48352252859FF3032A0,10
+3388,6.12765,Dresses,"Allegra K Women Casual Zipper Closure Hooded Mini Dress Navy Blue M","Allegra K",13.35,Women,621FBD17DA27241C58015EABE4164A52,9
+3389,7.23774,Dresses,"Curve Appeal Solid Ribbed Sweater Dress with Belt","Curve Appeal",16.99,Women,8643C8E2107BA86C47371E037059C4B7,8
+3390,55.33500,Dresses,"Nine West Dresses Women's Split Neck Sweater Dress","Nine West",119.00,Women,8ED36A8485E30937B99C0D247E9C3832,10
+3391,58.89516,Dresses,"BCBGeneration Women's Cutout Back Dress",BCBGeneration,120.44,Women,DBB422937D7FF56E049D61DA730B3E11,8
+3392,4.78080,Dresses,"Allegra K Ladies Self Tie Bowknot Shoulder Elastic Waist Flower Pattern Casual Mini Dress Red M","Allegra K",11.52,Women,6463C88460BD63BBE256E495C63AA40B,9
+3393,55.72800,Dresses,"Nine West Dresses Women's Lace Edge Trim Bateau Neck","Nine West",129.00,Women,477B02D99DD6C00C5BA852BB9A9E1F6C,10
+3394,60.67200,Dresses,"maxandcleo Women's Layla Dress",maxandcleo,128.00,Women,E8A642ED6A9AD20FB159472950DB3D65,10
+3395,21.24234,Dresses,"Patty Women Comfy On/One Shoulder Bat Wing Sleeve Sweater Mini Dress",Patty,43.98,Women,828752F77ADA1B8BADF688BB8BE59F9D,1
+3396,41.61300,Dresses,"BB Dakota Juniors Neva","BB Dakota",97.00,Women,818DE4D2EC21CFCB149CED7A5BED25AB,8
+3397,13.33306,Dresses,"Fashion Victim Ladies Long Sleeve Off Shoulder Batwing Top Mini Dress","Fashion Victim",26.99,Women,5C80985BD40B8CE792F8C786BB23FE54,5
+3398,89.89500,Dresses,"Twelfth Street by Cynthia Vincent Women's Bell Sleeve Baby Doll Mini Dress","Twelfth Street by Cynthia Vincent",195.00,Women,384BABC3E7FAA44CF1CA671B74499C3B,3
+3399,36.57900,Dresses,"#7716 One Shoulder Chiffon Homecoming Bridesmaids Party Dress",Cinderella,89.00,Women,57F04BB2975420E3B4C73920C687CAD7,8
+3400,4.60215,Dresses,"Allegra K Women Flower Print Scoop Neck Sleeveless Elastic Waist Chiffon Dress White Watermelon Red XS","Allegra K",9.45,Women,E945DE21A1BB5714A0BC8A897ED32E9F,9
+3401,52.39300,Dresses,"Pencey Standard Women's Drape Dress",Pencey,121.00,Women,7FCC48D22804DBBE9B66B607D51389D4,3
+3402,16.25972,Dresses,"Short Sleeve Cowl Neck Fitted Warm Winter Plaid Sweater Mini Dress Top S M L","Hot from Hollywood",37.99,Women,91D0DBFD38D950CB716C4DD26C5DA08A,1
+3403,45.27600,Dresses,"Kensie Women's Brocade Sleeve Dress",Kensie,98.00,Women,898DD88CCA7B2F65461BC491DACB9B25,2
+3404,39.88193,Dresses,"Evanese Women's Plus Size Elegant Long Dress with 3/4 Sleeves",Evanese,97.99,Women,C6B8C8D762DA15FA8DBBDFB6BAF9E260,7
+3405,8.63568,Dresses,"One-size-fits-all Tube Dress/Coverup - Black Floral Print",Alki'i,19.99,Women,BE1BC7997695495F756312886F566110,1
+3406,4.77287,Dresses,"Allegra K Women Scoop Neck Cut out Shoulder Striped Hem Bat Sleeve Mini Dress Gray XS","Allegra K",10.63,Women,32FDAB6559CDFA4F167F8C31B9199643,9
+3407,19.68872,Dresses,"INC International Concepts Turtleneck Tunic","INC International Concepts",42.16,Women,DAB49080D80C724AAD5EBF158D63DF41,9
+3408,69.36200,Dresses,"Taylor Women's Vintage Party Dress",Taylor,158.00,Women,734E6BFCD358E25AC1DB0A4241B95651,1
+3409,68.45511,Dresses,"Mother of the Bride Formal Evening Dress #2831","US Fairytailes",139.99,Women,20125FD9B2D43E340A35FB0278DA235D,3
+3410,32.49900,Dresses,"Ever Pretty Women's Vine Paisley Long Dress",Ever-Pretty,69.00,Women,C6F798B844366CCD65D99BC7F31E0E02,8
+3411,18.65665,Dresses,"2B Lace Top Scuba Peplum Dress","2b by bebe",39.95,Women,2FD0FD3EFA7C4CFB034317B21F3C2D93,5
+3412,10.40000,Dresses,"Wrapper One-Shoulder Gathered Dress",Wrapper,25.00,Women,90F1F4972D133619A60C30F3559EC0C5,2
+3413,28.16000,Dresses,"Folter Clothing BLACK DAHLIA DRESS in Black",Folter,64.00,Women,30192E936BA11D0A202097FED8F44B2D,4
+3414,19.05200,Dresses,"American Apparel Cotton Spandex Jersey Double U-Neck Long Sleeve Mini Dress","American Apparel",44.00,Women,63A7769EFBCC83107E5E385CCC6429DE,8
+3415,5.10588,Dresses,"Allegra K Ladies Sexy Square Neckline Backless Sleeveless Clubwear Mini Dress Blue XS","Allegra K",10.91,Women,F6D9E459B9FBF6DD26C4F7D621ADEC1D,9
+3416,6.65796,Dresses,"Allegra K Ladies Sequin Doll Collar Puff Sleeve Dress Dark Blue M","Allegra K",13.56,Women,1FFFEB2192215EA34CE0AAB63650534A,9
+3417,4.88768,Dresses,"Allegra K Ladies Turtle Neck Long Sleeve Zip Closure Back Black Dress Black XS","Allegra K",10.91,Women,471C50AD1A156D7256EDDFD747D77931,9
+3418,16.53453,Dresses,"Sexy Fitted Empire Satin Prom Cocktail Party Club Mini Dress","Hot from Hollywood",36.99,Women,D594B1A945B5D645E59E21F88BD2D83B,1
+3419,10.09596,Dresses,"Womens Ladies Coil Spring Maxi Dress","VIP BOUTIQUE",24.99,Women,4A533591763DFA743A13AFFAB1A85793,5
+3420,55.22400,Dresses,"maxandcleo Women's Madelyn Printed Dress",maxandcleo,118.00,Women,643DE7CF7BA769C7466CCBC4ADFD7FAC,10
+3421,6.99952,Dresses,"Allegra K Woman Long Sleeve Double Breasted One-piece Dress Camel XS","Allegra K",15.52,Women,E846FB8A4F365CA8E84393D4F34E1B07,9
+3422,40.19400,Dresses,"Nine West Dresses Women's Bateau Neck Long Sleeve Dress","Nine West",99.00,Women,73640DE25B7D656733CE2F808A330F18,10
+3423,4.91352,Dresses,"Allegra K Sheer Lace Bat Wing Sleeve Gray Mini Dress XS for Women","Allegra K",10.41,Women,3D324C2883882B15FA8FBE8F025A3A99,9
+3424,14.31332,Dresses,"Patty Women Unique Bolero Style Long Sleeve Party Mini Dress",Patty,32.98,Women,71A5C0514AB83382D98154E5A5F9D813,1
+3425,24.87105,Dresses,"KAMALIKULTURE Women's Empire Dress",KAMALIKULTURE,55.89,Women,07211688A0869D995947A8FB11B215D6,9
+3426,24.28875,Dresses,"Jones New York Women's Lace Sculpted Side Drape Sheath Dress","Jones New York",57.15,Women,5D2C2CEE8AB0B9A36BD1ED7196BD6C4A,3
+3427,23.16607,Dresses,"Lindy Bop 'Grace' Classy Vintage 1950's Rockabilly Style Bow Swing Party Dress","Lindy Bop",46.99,Women,5421E013565F7F1AFA0CFE8AD87A99AB,7
+3428,8.18918,Dresses,"LOCOMOLIFE Sexy Deep V Short See Through Sleeve Simple Design Mini Dress Cocktail Party Clubwear FFD003 One Size","LOCOMO Dresses",16.99,Women,4500E4037738E13C0C18DB508E18D483,9
+3429,14.40114,Dresses,"Floral Print Silky Long Maxi Dress - Green",TopTie,28.86,Women,CAA202034F268232C26FAC9435F54E15,10
+3430,10.13650,Dresses,"Wallflower Juniors Printed Slinky DTY Wedge Dress",Wallflower,24.25,Women,2D2C8394E31101A261ABF1784302BF75,1
+3431,12.91830,Dresses,"Jump Juniors Cross Pleated Beaded Gown",JUMP,28.90,Women,84C2D4860A0FC27BCF854C444FB8B400,9
+3432,16.53453,Dresses,"Plus Size Sexy Black Low Cut V-Neck Mini Dress","eVogues Apparel",36.99,Women,72007983849F4FCB0AD565439834756B,5
+3433,46.09539,Dresses,"Roamans Plus Size Ruffle Dress Taillissime",Roamans,99.99,Women,A91AF177D3016CA20E5FC949836A894A,7
+3434,94.47200,Dresses,"Bailey 44 Women's Balls To The Wall Dress","Bailey 44",196.00,Women,14C879F3F5D8ED93A09F6090D77C2CC3,6
+3435,44.98200,Dresses,"Sweetheart Knit Wrap Dress",Kiyonna,98.00,Women,5B970A1D9BE0FD100063FD6CD688B73E,3
+3436,42.72800,Dresses,"Vivienne Cinch Dress",Kiyonna,98.00,Women,61F2585B0EBCF1F532C4D1EC9A7D51AA,3
+3437,58.96000,Dresses,"Jones New York Women's Printed Matte 3/4 Sleeve Cowl Neck Raglan Dress","Jones New York",134.00,Women,C2F32522A84D5E6357E6ABAC087F1B0B,3
+3438,37.52500,Dresses,"Jessica Simpson Monarch Flower Dress","Jessica Simpson",79.00,Women,F34185C4CA5D58E781D4F14173D41E5D,4
+3439,37.76045,Dresses,"Jessica Simpson Women's Pleated Dress with Tiered Hem","Jessica Simpson",82.99,Women,4FA91C19016CB1F807EA47B5A959D518,4
+3440,4.83140,Dresses,"Allegra K Ladies Dotted Double V Neck Banded Dress Pink White M","Allegra K",10.15,Women,7DE32147A4F1055BED9E4FAF3485A84D,9
+3441,19.38300,Dresses,"As U Wish Juniors Lace Knit Skater Illusion Dress","As U Wish",39.00,Women,B2004314AA49D95302179246148E0326,3
+3442,4.46516,Dresses,"Allegra K Ladies Scoop Neck Sash Waist Above Knee Dress Khaki L","Allegra K",10.36,Women,586F9B4035E5997F77635B13CC04984C,9
+3443,7.61654,Dresses,"Allegra K Woman Long Sleeve Convertible Collar Buttoned Dress Black Size S","Allegra K",16.63,Women,12092A75CAA75E4644FD2869F0B6C45A,9
+3444,31.57079,Dresses,"Purpura Erizo Womens Elegant Lace Collar Long Sleeve Dress","Purpura Erizo",74.99,Women,758BE1F9F7A7EFAC938ED8BD97C0E1CB,2
+3445,49.30200,Dresses,"London Times Women's Twinkle Mesh Sheath Dress","London Times",99.00,Women,09BA3F0DF1447F40E98674BA9D62C747,3
+3446,4.81344,Dresses,"Allegra K Woman Scoop Neck Elastic Waist Sequin Accent Dress Beige Black M","Allegra K",11.04,Women,5B4A2146246BC3A3A941F32225BBB792,9
+3447,17.56000,Dresses,"XOXO Juniors Peplum Dress",XOXO,40.00,Women,2E1B24A664F5E9C18F407B2F9C73E821,2
+3448,19.45386,Dresses,"Lindy Bop 'Rhonda' Vintage 1950's Plum Polka Dot Peter Pan Collar Rockabilly Swing / Tea Dress","Lindy Bop",46.99,Women,C5BBD980E5AB2C17413EC02BD757A9E5,7
+3449,4.37972,Dresses,"Allegra K Women Summer Elastic Waist Sleeveless Casual Loose Mini Dress Cyan Black L","Allegra K",9.82,Women,86A1793F65AEEF4AEEF4B479FC9B2BCA,9
+3450,19.91808,Dresses,"Evolution by Cyrus Women's Elbow Sleeve Cowl Neck Dress","Evolution by Cyrus",47.88,Women,703957B6DD9E3A7980E040BEE50DED65,4
+3451,26.04000,Dresses,"Switchblade Stiletto SWING POCKET DRESS","Switchblade Stiletto",60.00,Women,DE7F47E09C8E05E6021ABABDF6BC58E7,5
+3452,4.56840,Dresses,"Allegra K Women Scoop Neck Elastic Waist Chiffon Dress w Cinch Belt Beige XS","Allegra K",10.80,Women,66121D1F782D29B62A286909165517BC,9
+3453,44.32200,Dresses,"Anne Klein Women's Split Neck Shift Dress","Anne Klein",89.00,Women,F356355C1634839CF42769E7F30905A3,2
+3454,171.12000,Dresses,"BCBGMAXAZRIA Women's Gisela Criss Cross Foil Print Dress",BCBGMAXAZRIA,368.00,Women,5ABDF8B8520B71F3A528C7547EE92428,3
+3455,23.35403,Dresses,"Lindy Bop 'Irma' Black Vintage 1950s Bow Shawl Collar Audrey Hepburn Style Swing Dress","Lindy Bop",46.99,Women,473447AC58E1CD7E96172575F48DCA3B,7
+3456,116.56000,Dresses,"Ted Baker Women's Gabbiey","Ted Baker",235.00,Women,DEF7924E3199BE5E18060BB3E1D547A7,3
+3457,10.70688,Dresses,"Flaming Peacock Further Print Empire Waist Maxi Dress",TopTie,23.48,Women,E1FC9C082DF6CFFF8CBCFFF2B5A722EF,10
+3458,44.36880,Dresses,"Adrianna Papell Women's Matte Jersey Band Dress","Adrianna Papell",106.40,Women,E3EA33961A7C5B1EC04D6C97AA3B5379,10
+3459,14.66511,Dresses,"Ed Hardy War Of The Rosses Dress - White","Ed Hardy",29.99,Women,13D63838EF1FB6F34CA2DC6821C60E49,5
+3460,4.94406,Dresses,"Allegra K Women Deep U Neck Sleeveless Bare Back Coattails Dress Black White XS","Allegra K",10.89,Women,56503192B14190D3826780D47C0D3BF3,9
+3461,6.22934,Dresses,"Allegra K Women Applique Round Neck Pleated Chiffon Mini Dress Beige M","Allegra K",12.61,Women,7E8D7E5CCBDDFD9576BE61E3AB86AA73,9
+3462,6.71308,Dresses,"Allegra K Woman Drawstring Waist Short Sleeve Full-length Dress Heather Gray L","Allegra K",13.87,Women,9EDDA0FD4D983BF975935CFD492FD50B,9
+3463,186.62600,Dresses,"Parker Women's Open Back Dress",Parker,374.00,Women,73C03186765E199C116224B68ADC5FA0,7
+3464,30.16800,Dresses,"prAna Women's Amaya Dress",prAna,72.00,Women,51E6D6E679953C6311757004D8CBBBA9,7
+3465,5.02640,Dresses,"Allegra K Woman Off Shoulder Hip-hugging Mini Dress Fuchsia White M","Allegra K",12.20,Women,797134C3E42371BB4979A462EB2F042A,9
+3466,34.27832,Dresses,"Moonar Chiffon Strapless Sweetheart Straight Prom Formal Gown Party Bridesmaid Wedding Dress",Moonar,78.62,Women,606555CF42A6719782A952AA33CFA2CB,5
+3467,5.07400,Dresses,"Allegra K Woman Cutout Shoulder Batwing Sleeve Stripe Hem Dress Gray M","Allegra K",10.75,Women,2A2717956118B4D223CECA17CE3865E2,9
+3468,18.49500,Dresses,"Elan Convertible Dress",Elan,36.99,Women,322F62469C5E3C7DC3E58F5A4D1EA399,3
+3469,8.07596,Dresses,"One-size-fits-most Tube Dress/Coverup with Animal Print (Zebra/Leopard/Cheet...",Alki'i,19.99,Women,CA851E9F71B25D2D588B7E0D4DE3D627,1
+3470,26.29900,Dresses,"Roxy Juniors Desert Beach Strapless Maxi Dress",Roxy,59.50,Women,73FED7FD472E502D8908794430511F4D,2
+3471,38.59000,Dresses,"Woolrich Women's Pemberton Dress",Woolrich,85.00,Women,735143E9FF8C47DEF504F1BA0442DF98,8
+3472,4.99737,Dresses,"Allegra K Ladies Flower Prints Chiffon Short Sleeve Mini Dress S","Allegra K",11.13,Women,2974788B53F73E7950E8AA49F3A306DB,9
+3473,54.11549,Dresses,"Ever Pretty Sexy Double V-neck Floral Printed Chiffon Evening Dress 09636",Ever-Pretty,119.99,Women,99BE9F83741D1275639DF2C1E4D0072F,8
+3474,79.11800,Dresses,"Anne Klein Women's Dress Coat","Anne Klein",179.00,Women,E91068FFF3D7FA1594DFDF3B4308433A,2
+3475,45.37400,Dresses,"KAMALIKULTURE Women's Long Sleeve Crewneck Maxi Dress",KAMALIKULTURE,98.00,Women,D38EE19A4815C4AEBA48227913092A6E,9
+3476,17.55561,Dresses,"Plus Size White Cotton Empire Waist SunDress","eVogues Apparel",39.99,Women,DDCBE25988981920C872C1787382F04D,5
+3477,4.51856,Dresses,"Allegra K Women Pullover Ruffled Single Shoulder Sleeveless Dress Blue XS","Allegra K",9.11,Women,6D6968D87C240C699190E2D8C029FA9D,9
+3478,4.33411,Dresses,"Allegra K Ladies Scoop Neck Sleeveless Elastic Waist Mini Dress Multicolor XS","Allegra K",9.61,Women,B071CFA81605A94AD80CFA2BBC747448,9
+3479,4.29240,Dresses,"Allegra K Ladies Batwing Sleeve Off Shoulder Form-fitting Dress Light Pink S","Allegra K",10.22,Women,6950AA02AE8613AF620668146DD11840,9
+3480,14.08673,Dresses,"Jr Plus Size Sexy Black Rhinestone Low Cut V-Neck Cocktail Dress","eVogues Apparel",32.99,Women,E8E0DD181E4EE545195120626098BFBA,5
+3481,18.01413,Dresses,"Plus Size Black Embroidery Print Maxi Halter Neck Cocktail Dress","eVogues Apparel",36.99,Women,3FB04953D95A94367BB133F862402BCE,5
+3482,14.44674,Dresses,"Patty Women Smart Polo Neck Cap Sleeve Casual Party Mini Dress",Patty,34.98,Women,B7FEDE84C2BE02CCB9C77107956560EB,1
+3483,74.05300,Dresses,"Anne Klein Women's Sequin Dresss","Anne Klein",149.00,Women,CB953F6CA5923F7517125DB46ED1293D,2
+3484,5.45952,Dresses,"Allegra K Woman Dipped Hem Short Sleeve Cat Front Summer Short Dress Gray XS","Allegra K",11.28,Women,966B6DFB6B0819CC10644BEA3115CF20,9
+3485,38.16099,Dresses,"Jones New York Women's Mock Jacket Dress","Jones New York",89.37,Women,DFEB9598FBFB97CC6BBCC0AFF2C785D6,3
+3486,22.88413,Dresses,"Lindy BOP 'Nina' Classy Vintage 40s 50s Style Blue 3/4 Sleeve Belted Wiggle Pencil Dress","Lindy Bop",46.99,Women,AB4F2B5FD96CA65349119909C1EADA2D,7
+3487,36.55543,Dresses,"Miss Sixty Women's Cameron Dress","Miss Sixty",79.99,Women,944A5AE3483ED5C1E10BBCCB7942A279,2
+3488,6.53310,Dresses,"Allegra K Woman Pale Pink V Neck Sleeveless Sash-waist Tank Dress L","Allegra K",15.30,Women,C7B90B0FC23725F299B47C5224E6EC0D,9
+3489,26.37666,Dresses,"Anne Klein Women's Color Banded Hem Swing Dress","Anne Klein",53.94,Women,1B318124E37AF6D74A03501474F44EA1,2
+3490,10.97500,Dresses,"A. Byer Juniors Print Hmc Tube Top Dress","A. Byer",25.00,Women,72F67E70F6B7CDC4CC893EDADDF0C4C6,1
+3491,44.00200,Dresses,"KAMALIKULTURE Women's Turtleneck Dress",KAMALIKULTURE,98.00,Women,6C91724B896CDCF48285039AB05B3AAF,9
+3492,6.43625,Dresses,"Allegra K Woman Scoop Neck Short Sleeve Long Dress Heather Gray M","Allegra K",13.55,Women,0060EF47B12160B9198302EBDB144DCF,9
+3493,15.86893,Dresses,"Sleeveless Low Cut Scoop Neck Sequins Mini Fitted Evening Cocktail Dress S M L","Hot from Hollywood",38.99,Women,BA036D228858D76FB89189853A5503BD,1
+3494,64.23200,Dresses,"Suzi Chin Women's Lace Dress","Suzi Chin",148.00,Women,6DBD2699E8E7EC0047DE2D5D1B28A75B,3
+3495,38.19000,Dresses,"aryn K Women's Long Sleeve Lace Mini Dress","Aryn K",95.00,Women,8485AE387A981D783F8764E508151CD9,2
+3496,47.22300,Dresses,"London Times Women's Matte Jersey Shutter Tuck Sheath Dress","London Times",99.00,Women,0A348EDE8AC3768875037BACA5DE6E26,3
+3497,66.67920,Dresses,"Ali Ro Women's Short Sleeve Sequin Dress","Ali Ro",158.76,Women,7535BBB91C8FDE347AD861F293126633,3
+3498,43.20800,Dresses,"BCBGeneration Women's Body Con Dress",BCBGeneration,88.00,Women,FD9DCF1D146272BB05C490D790B6DA52,8
+3499,6.07420,Dresses,"Allegra K Women Pullover V Neck Sleeveless Dress Dark Blue M w Belt","Allegra K",12.55,Women,3EA2DB50E62CEEFCEAF70A9D9A56A6F4,9
+3500,31.21530,Dresses,"Nine West  Women's Ruffle  Racer Back Maxi Dress","Nine West",77.65,Women,E2065CB56F5533494522C46A72F1DFB0,10
+3501,3.98286,Dresses,"Allegra K Ladies A Line Heart Sheer Mesh Upper Slipover Mini Dress Black XS","Allegra K",9.81,Women,D494020FF8EC181EF98ED97AC3F25453,9
+3502,71.02200,Dresses,"Adrianna Papell Women's Strapless Fully Beaded Cocktail Dress","Adrianna Papell",159.60,Women,D2350A54D774001D6078E326B4488878,10
+3503,63.43512,Dresses,"BCBGMAXAZRIA Women's Sheyna Fitted Ruffle Dress With Low Back",BCBGMAXAZRIA,129.99,Women,87F7EE4FDB57BDFD52179947211B7EBB,3
+3504,9.12588,Dresses,"Allegra K Ladies Doll Collar Long Sleeve Self Tie Bow Front Decor Stretch Dress White S","Allegra K",20.19,Women,73231E53EEEF362C814C8522F5257286,9
+3505,58.36800,Dresses,"maxandcleo Women's Sarah Pleated Dress",maxandcleo,128.00,Women,2A3D6D6CC4B5E77238C1FC1BB6CDD681,10
+3506,62.86000,Dresses,"Adrianna Papell Women's Side Rouched Dress","Adrianna Papell",140.00,Women,E0126439E08DDFBDF4FAA952DC910590,10
+3507,19.97075,Dresses,"Lindy Bop 'Viola' Vintage 1950's Plum Shawl Collar Double Breasted Rockabilly Party Dress","Lindy Bop",46.99,Women,0E7C7D6C41C76B9EE6445AE01CC0181D,7
+3508,19.07794,Dresses,"50's Wiggle Pencil Pleat Dress Black","Tiger Milly",46.99,Women,7D2BE41B1BDE6FF8FE45150C37488EBB,10
+3509,33.47622,Dresses,"Anne Klein Women's Jersey Swing Dress","Anne Klein",79.14,Women,0141A8AEDB1B53970FAC7C81DAC79FBE,2
+3510,4.36000,Dresses,"Allegra K Women Ruffled Single Shoulder Sleeveless Mini Dress Black XS","Allegra K",8.72,Women,15E122E839DFDAA7CE969536F94AECF6,9
+3511,63.10400,Dresses,"Desert Rain Maxi Dress",Kiyonna,128.00,Women,9A85C12A21B76392747906FC7B2AFF92,3
+3512,4.76720,Dresses,"Allegra K Women Self Tie Neck Elastic Waist Chiffon Mini Dress Light Gray XS","Allegra K",10.10,Women,0DBB3FB9A5CD1D5F8A9075B5BB8070AA,9
+3513,18.16934,Dresses,"Ruched Sexy Cocktail Fitted X Back Club Party Hot Mini Dress","Hot from Hollywood",38.99,Women,0FFACA95E3E5242BA1097AD8A9A6E95D,1
+3514,21.54569,Dresses,"Jump Juniors Marled and Marvelous Spaced Dyed Sweater Knit Dress",JUMP,49.99,Women,7288251B27C8F0E73F4D7F483B06A785,9
+3515,48.70600,Dresses,"Bcbgeneration Women's Mini Dress",BCBGeneration,98.00,Women,5FEF3EFF51DC719C4A9F565A742D78F2,8
+3516,13.59600,Dresses,"American Apparel Cotton Spandex Jersey Strapless Ruched Dress","American Apparel",33.00,Women,CF1CF43CBA274AE7F413E864682B80F8,8
+3517,15.43464,Dresses,"Patty Women Cute O-ring Halter Drape Front Mini Dress Clubwear",Patty,32.98,Women,B5B0DB7F3A77CA4FCF9ECA57AA7181CA,1
+3518,30.09162,Dresses,"Anne Klein Women's 1x1 Rib And Flat Bord Dress","Anne Klein",67.47,Women,5401ACFE633E6817B508B84D23686743,2
+3519,21.01033,Dresses,"FUNFASH SLIMMING BLACK EMPIRE WAIST COCKTAIL CRUISE DRESS Plus Size Made in USA",Funfash,44.99,Women,1FD7B875D3473501D1B771EBE934CA59,1
+3520,4.59420,Dresses,"Allegra K Woman Sheerness Top Cowl Neck Flutter Sleeve Dress Gray L","Allegra K",11.40,Women,6C0958D82A830A02C0718147B1B565C1,9
+3521,15.28626,Dresses,"Patty Women Gorgeous Floral Lace Halter Ruched Cocktail Party Mini Dress",Patty,34.98,Women,98AFDCC1EBD85DAA0F1749C5E56B9D8C,1
+3522,17.20035,Dresses,"Short Sleeve Sparkling Cowl Neck Casual Evening Long Sweater Fitted Dress S M L","Hot from Hollywood",36.99,Women,EE14C41E92EC5C97B54CF9B74E25BD99,1
+3523,7.10862,Dresses,"Allegra K Woman Long Sleeve Baggy Pockets Belted Dress Dark Gray L","Allegra K",15.42,Women,939314105CE8701E67489642EF4D49E8,9
+3524,48.38000,Dresses,"Valentina Illusion Dress",Kiyonna,118.00,Women,A9DE093D0622ED782D267FA3F1953228,3
+3525,68.44800,Dresses,"maxandcleo Women's Paige Cocktail Dress",maxandcleo,138.00,Women,DA9E6A4A4AECA98588E4DD77CEB37695,10
+3526,15.82994,Dresses,"Strapless Sweetheart Bust Waist Ruffle Evening Party Cocktail Peplum Dress S M L","Hot from Hollywood",38.99,Women,0E4F5CC9F4F3F7F1651A6B9F9214E5B1,1
+3527,33.99500,Dresses,"KAMALIKULTURE Women's Long Sleeve Side Draped Dress",KAMALIKULTURE,67.99,Women,B87470782489389F344C4FA4CEB5260C,9
+3528,19.95780,Dresses,"2B Melina Maxi","2b by bebe",44.95,Women,EAD81FE8CFE9FDA9E4C2093E17E4D024,5
+3529,4.81866,Dresses,"Allegra K Lady Floral Prints Elastic Top Flouncing Hem Dress Light Pink XS","Allegra K",10.78,Women,9BDB8B1FAFFA4B3D41779BB495D79FB9,9
+3530,43.65900,Dresses,"Evan Picone Women's Chiffon Draped Neck Blouson Sleeve Dress","Evan Picone",99.00,Women,30A0B73609456022AE729282FD9753D4,3
+3531,25.92900,Dresses,"AX Paris Strapless Drop Back Jewel Dress",AxParis,64.50,Women,E52AD5C9F751F599492B4F087ED7ECFC,4
+3532,30.86559,Dresses,"NoeMie Women Cotton lace panel Dress",NoeMie,69.99,Women,AFAB3E9707435D6B0888B566D7AD3FF8,5
+3533,13.09265,Dresses,"London Times Women's Matte Sheath Dress","London Times",32.65,Women,5A9D8BF5B7A4B35F3110DDE8673BDDA2,3
+3534,29.99250,Dresses,"AX Paris Sequin Long Sleeve V Front Dress",AxParis,64.50,Women,AA97D584861474F4097CF13CCB5325DA,4
+3535,36.63542,Dresses,"Miss Sixty Women's Blaire Dress","Miss Sixty",79.99,Women,B99D193B66A6542917D2B7BEE52C2574,2
+3536,19.75506,Dresses,"Sleeveless Rhinestone Empire Waist Sheer Layer Evening Cocktail Party Dress","Hot from Hollywood",39.99,Women,291D43C696D8C3704CDBE0A72ADE5F6C,1
+3537,13.63960,Dresses,"National Border Print Dress",National,27.95,Women,416849DA96FB73BEE793E2BF65AE43AC,4
+3538,5.55162,Dresses,"Allegra K Woman Stand Collar Accordion Pleats Sleeveless Dress Light Purple L","Allegra K",13.81,Women,1458E7509AA5F47ECFB92536E7DD1DC7,9
+3539,23.85600,Dresses,"BCBGMAXAZRIA Women's Hazel Rib Tank Dress",BCBGMAXAZRIA,48.00,Women,142C65E00F4F7CF2E6C4C996E34005DF,3
+3540,4.43943,Dresses,"Allegra K Ladies Scoop Neck Sleeveless Sequin Decor Mini Tank Dress Black Beige XS","Allegra K",9.63,Women,8844C5F00372DF2C3C4EE857C2451B45,9
+3541,39.75503,Dresses,"Folter Clothing STRAPLESS FOREVER YOURS DRESS in Skull Rose Tattoo Flash Print",Folter,79.99,Women,C5F5C23BE1B71ADB51EA9DC8E9D444A8,4
+3542,5.11884,Dresses,"Allegra K Women White Flower Pattern Strapless Above Dress Black XS","Allegra K",10.62,Women,8487E01FBAF43E758C17F86472CBF3E6,9
+3543,31.61232,Dresses,"Moonar Chiffon Sweetheart A Line Prom Formal Gown Party Bridesmaid Wedding Dress",Moonar,68.13,Women,196F5641AA9DC87067DA4FF90FD81E7B,5
+3544,13.27585,Dresses,"Alki'i Round Yoke Strechy Flare Evening Casual Wedding Midlength Dress (13 prints)",Alki'i,31.99,Women,147EBE637038CA50A1265ABAC8DEA181,1
+3545,18.15546,Dresses,"Plus Size Embroidery Print Empire Waist Maxi Dress Blue","eVogues Apparel",39.99,Women,06EE4C5C93A9957C9B1BB3BD89E800C8,5
+3546,4.41970,Dresses,"Allegra K Cyan Black Patchwork Sleeveless Mini Dress M for Women","Allegra K",9.65,Women,A8166DA05C5A094F7DC03724B41886E5,9
+3547,5.86920,Dresses,"Allegra K Woman Studded Leopard Print Batwing Sleeve Mini Dress Black M","Allegra K",13.40,Women,E6BA70FC093B4CE912D769EDE1CEEBA8,9
+3548,32.39595,Dresses,"Tiana B Women's The Perfect Peplum","Tiana B",79.99,Women,50CF0763D8EB871776D4F28B39DEB564,7
+3549,6.64972,Dresses,"Collections Etc - Tanya Circles V-Neck Dress","Samanthas Style Shoppe",13.97,Women,DB98DC0DBAFDE48E8F74C0DE001D35E4,6
+3550,12.22647,Dresses,"Womens Elegant Short Sleeve V-Neck Wrap Dress",Argenti,26.99,Women,018DD1E07A2DE4A08E6612341BF2323E,7
+3551,76.31250,Dresses,"Sofie Women's Cashmere A-Line Dress",Sofie,187.50,Women,ABDEB6F575AC5C6676B747BCA8D09CC2,2
+3552,11.15000,Dresses,"Trixxi Juniors Floral Printed Mesh Dress",Trixxi,25.00,Women,7C220A2091C26A7F5E9F1CFB099511E3,2
+3553,183.47800,Dresses,"Trina Turk Women's Baroness Dress","Trina Turk",398.00,Women,E250C59336B505ED411D455ABAA30B4D,3
+3554,52.51000,Dresses,"Calvin Klein Women's Printed Dress","Calvin Klein",118.00,Women,69B09198D4248B8F24494F27A01367B9,3
+3555,24.44200,Dresses,"Suzi Chin Women's Drape Neck Dress","Suzi Chin",50.50,Women,22B1CD168EC628442B3D4DC00FCA434B,3
+3556,4.09696,Dresses,"Allegra K Lady Form-fitting Sleeveless Semi Sheer Patchwork Dress Light Blue Light Yellow XS","Allegra K",9.44,Women,656F0DBF9392657EED7FEEFC486781FB,9
+3557,39.59200,Dresses,"BCBGeneration Women's Open Back Dress",BCBGeneration,98.00,Women,51DA85A3C3DFA1F360B48852B64218B2,8
+3558,18.45801,Dresses,"Super Slimming Sleeveless V Neck Sequin Fitted Mini Event Evening Clubwear Party Mini Dress S M L","Hot from Hollywood",36.99,Women,285A25C17F351708754CDB6D56F3962E,1
+3559,4.32411,Dresses,"Allegra K Ladies Corsage Adorn Sleeveless Halter Cocktail Dress Black M","Allegra K",10.47,Women,F11BEC1411101C743F64DF596773D0B2,9
+3560,17.11011,Dresses,"Hey Viv ! Retro Rockabilly Polka Dot Halter Dress","Hey Viv !",34.99,Women,0AE1DD3954EE840075DE1395771B6C9C,7
+3561,55.08300,Dresses,"bebe Jersey Hi-lo Dress",bebe,129.00,Women,414A7497190EAEF6B5D75D5A6A11AFCF,10
+3562,8.91554,Dresses,"VIP Boutique Womens Zip Vest Peplum Dress","VIP BOUTIQUE",19.99,Women,EBF12CB74E96E67E63783D93C534EF27,5
+3563,65.39200,Dresses,"Jones New York Women's Printed Elbow Sleeve Front Hip Twisted Dress","Jones New York",134.00,Women,D04D42CDF14579CD294E5079E0745411,3
+3564,29.54880,Dresses,"Julian Taylor Women's Abstract Matte Dress","Julian Taylor",64.80,Women,05EDF455CB266CCB3EA3AC2715F87326,5
+3565,53.71300,Dresses,"Adrianna Papell Women's Sleeveless Open Back Beaded Gown","Adrianna Papell",128.50,Women,E6E713296627DFF6475085CC6A224464,10
+3566,10.27500,Dresses,"D.E.P.T. Women's Romance Maxi Skirt Dress",D.E.P.T.,25.00,Women,6346DC723395E1EE8EF57F4883BE4CB4,9
+3567,12.89600,Dresses,"American Apparel Rib Racerback Dress","American Apparel",26.00,Women,DCCAB9BD9E0B69C49302025EFDF19702,8
+3568,67.19580,Dresses,"Mother of the Bride Formal Evening Dress #2731","US Fairytailes",159.99,Women,5481B2F34A74E427A2818014B8E103B0,3
+3569,37.10250,Dresses,"Suzi Chin Women's Lace Sheath","Suzi Chin",76.50,Women,77C493EC14246D748DB3EE8FCE0092DB,3
+3570,25.45761,Dresses,"GREEN DRESS PEASANT LAYER RENAISSANCE - FITS (ONE SIZE) - L XL 1X 2X - G803G LOTUSTRADERS",LOTUSTRADERS,57.99,Women,43B52842663FA6E4100C72751D08DE6F,8
+3571,53.01039,Dresses,"Mother of the Bride Formal Evening Dress #2630","US Fairytailes",114.99,Women,F8F5161CF94DF05793592F5FAB95138B,3
+3572,42.23800,Dresses,"Legacy Wrap Dress",Kiyonna,98.00,Women,842424A1D0595B76EC4FA03C46E8D755,3
+3573,18.01413,Dresses,"Short Sleeve Loose Knit Fitted Turtleneck Sweater Mini Dress Winter Top S M L","Hot from Hollywood",36.99,Women,8BACA01B732CF56F7CE83DF216514363,1
+3574,22.34553,Dresses,"Designer White Strapless Long Evening Formal Dress","Hot from Hollywood",49.99,Women,1B9F38268C50805669FD8CAF8F3CC84A,1
+3575,41.35600,Dresses,"bebe Cap Sleeve Stripe Dress",bebe,98.00,Women,C9F06BC7B46D0247A91C8FC665C13D0E,10
+3576,17.63559,Dresses,"Plus Size Blue Cotton Empire Waist SunDress","eVogues Apparel",39.99,Women,3F647CADF56541FB9513CB63EC370187,5
+3577,20.34667,Dresses,"Lindy Bop 'Emmaline' Classy Blue Stretch Bengaline Vintage 1950'S Pinup Pencil Wiggle Evening Party Dress","Lindy Bop",46.99,Women,3E77A14629775492504515DC4B23DEDA,7
+3578,5.26264,Dresses,"Allegra K Woman Lace Guipure Overlay Sleeveless Stand Collar Dress Black M","Allegra K",12.56,Women,252A3DBAEB32E7690242AD3B556E626B,9
+3579,159.83951,Dresses,"Parker Women's Striped Dress",Parker,355.99,Women,0D441DE75945E5ACBC865406FC9A2559,7
+3580,5.65196,Dresses,"VIP Womens Ladies Belted Pleated Skater Party Dress",VIP,13.99,Women,630B7D8DD49A0BAB667498F287D68C16,1
+3581,24.54509,Dresses,"Hot Leopard Halter Evening Gown Sexy Long Maxi Dress","Hot from Hollywood",49.99,Women,67606D48E361CE176CA71FD54FCF4286,1
+3582,64.91300,Dresses,"Jones New York Women's Chiffon Tie Neck Zip Front Chemise","Jones New York",139.00,Women,9D684C589D67031A627AD33D59DB65E5,3
+3583,10.92500,Dresses,"Wrapper Cap-Sleeve Scoop-Neck Maxi Dress",Wrapper,25.00,Women,69EBA34671B3EF1EF38EE85CAAE6B2A1,2
+3584,67.41500,Dresses,"Jones New York Women's Matte Jersey Double Peplum Dress","Jones New York",139.00,Women,565767EB96D87D0D3AF8DFB332C2003F,3
+3585,7.12623,Dresses,"Allegra K Woman Scoop Neck Asymmetric Hem Blouse w Tank Dress Black M","Allegra K",15.13,Women,2668A7105966CAE6E23901495176B8F9,9
+3586,27.20154,Dresses,"Folter Clothing BRIDGET BOMBSHELL DRESS in Black & White Polka Dots",Folter,60.99,Women,224E5E49814CA908E58C02E28A0462C1,4
+3587,84.39578,Dresses,"Nicole Miller Women's Matte Jersey Blousson Sleeve Dress","Nicole Miller",199.99,Women,ABA53DA2F6340A8B89DC96D09D0D0430,4
+3588,151.12500,Dresses,"Nicole Miller Women's Reverse Stretch Charmeuse Boat Neck Dress","Nicole Miller",375.00,Women,C2964CAAC096F26DB222CB325AA267CB,4
+3589,22.22627,Dresses,"Lindy Bop Glamourous Vintage 1950's Marilyn Monroe Style Gold Satin Pencil Wiggle Dress","Lindy Bop",46.99,Women,A385D7D1E52D89D1A445FAA37F5B5307,7
+3590,5.07936,Dresses,"Allegra K Ladies Stretchy Waistband Bowknot Decor Scoop Neck Chiffon Dress Khaki Color L","Allegra K",11.44,Women,DA6EA77475918A3D83C7E49223D453CC,9
+3591,32.77500,Dresses,"Ever Pretty Women's Ella Classic Long Dress",Ever-Pretty,69.00,Women,9001CA429212011F4A4FDA6C778CC318,8
+3592,4.27386,Dresses,"Allegra K Women Sexy Pullover Strapless Tube Mini Dress Dark Blue XS","Allegra K",9.78,Women,69F357FCC8E6D119F3D95F33CEDB5915,9
+3593,46.15800,Dresses,"Neon Buddha Women's Shanghai Dress","Neon Buddha",98.00,Women,CDD0500DC0EF6682FA6EC6D2E6B577C4,1
+3594,8.58048,Dresses,"Allegra K Woman Zipper Back Tank Dress Yellow XS w a Waist Belt","Allegra K",17.44,Women,DCE8AF15F064D1ACCB98887A21029B08,9
+3595,19.30071,Dresses,"KH1 FUNFASH APPLE RED 3/4 SLEEVE EMPIRE WAIST COCKTAIL DRESS NEW Plus Size Made in USA",Funfash,44.99,Women,C0E8517B1FE0B5270F3F41D4B56D6118,1
+3596,9.55522,Dresses,"One-size-fits-most Tube Dress/Coverup with African Print",Alki'i,19.99,Women,52C409F1571F500E28F490A302A12540,1
+3597,5.00650,Dresses,"Allegra K Women Scoop Neck Cut out Shoulder Half Sleeve Mini Dress Dark Blue L","Allegra K",11.78,Women,B89C30965EBC74912DE879F22DA62DBF,9
+3598,50.69400,Dresses,"Evan Picone Women's Velvet and Taffeta Bow Waisted Dress","Evan Picone",119.00,Women,6A450490F238B4DDFF085D66A916A206,3
+3599,19.09050,Dresses,"Roxy Juniors Juniper V-Neck Dress",Roxy,44.50,Women,E7E69CDF28F8CE6B69B4E1853EE21BAB,2
+3600,23.09538,Dresses,"FUNFASH BLACK 3/4 SLEEVES EMPIRE WAIST COCKTAIL DRESS NEW Plus Size Made in USA",Funfash,49.99,Women,8D7628DD7A710C8638DBD22D4421EE46,1
+3601,18.60000,Dresses,"American Apparel Cotton Spandex Jersey Double U-Neck Dress","American Apparel",40.00,Women,62E7F2E090FE150EF8DEB4466FDC81B3,8
+3602,29.63104,Dresses,"Rebecca Minkoff Women's Ponte Lori Dress","Rebecca Minkoff",59.74,Women,228B25587479F2FC7570428E8BCBABDC,1
+3603,6.89169,Dresses,"Womens Boobtube Knot Bow Maxi Long Dress MTC",MTC,15.99,Women,6A8018B3A00B69C008601B8BECAE392B,4
+3604,19.38849,Dresses,"Patty Women Stunning Faux Denim Collared V-Neck Mini Dress",Patty,42.99,Women,C254E7753095807E1CCA159E48ECEB21,1
+3605,15.08500,Dresses,"Hurley Juniors Featherweight Mesh Strappy Dress",Hurley,35.00,Women,A05D886123A54DE3CA4B0985B718FB9B,1
+3606,36.34400,Dresses,"BCBGeneration Women's One Sleeve Cut Out Dress",BCBGeneration,88.00,Women,774B0E07753B0B94D1A1C5B0543B5FE1,8
+3607,37.36200,Dresses,"BCBGeneration Women's Off Shoulder Dress",BCBGeneration,78.00,Women,967990DE5B3EAC7B87D49A13C6834978,8
+3608,27.19900,Dresses,"Ever Pretty Women's Bliss Strapless Short Dress",Ever-Pretty,59.00,Women,60A0575EE6CE460E1D86C0E9D281C4F1,8
+3609,7.21630,Dresses,"Allegra K Women Scoop Neck Short Sleeve Stretchy Mid Calf Dress Heather Gray S","Allegra K",15.86,Women,649A066D415BDDA4CE2A7088292645E0,9
+3610,159.97500,Dresses,"Robert Rodriguez Women's Long Sleeve Fitted Pencil Dress","Robert Rodriguez",395.00,Women,F95EC3DE395B4BCE25B39EF6138DA871,3
+3611,24.54509,Dresses,"DESIGNER LEOPARD STRAPLESS OCCASION DRESS PARTY NEW MAXI GOWN","Hot from Hollywood",49.99,Women,4CF33E18EDE11B79827BC78B7F2075AE,1
+3612,42.72000,Dresses,"Jones New York Women's Bloussant Sleeve Printed Dress","Jones New York",89.00,Women,D87CA511E2A8593C8039EF732F5BFFED,3
+3613,20.19596,Dresses,"FUNFASH SMOKEY BLUE 3/4 SLEEVES WRAP COCKTAIL CRUISE DRESS Plus Size 1X XL 16 Womens New Made in USA",Funfash,49.99,Women,C4FA7AECEDAC73641320D24D5BF3BF38,1
+3614,5.96721,Dresses,"Allegra K Women Striped Detail Cap Sleeve Trendy Pullover Mini Dress White M","Allegra K",13.47,Women,6ADD07CF50424B14FDF649DA87843D01,9
+3615,19.25952,Dresses,"Hey Viv ! 50s Retro Style Party Dress - Black Satin","Hey Viv !",42.99,Women,D8C9D05EC6E86D5BBAD7A2F88A1701D0,7
+3616,6.49520,Dresses,"Allegra K Woman U Neck Stretchy Backless Irregular Hem Dress Black White M","Allegra K",14.12,Women,78D69F40906679A976DC4D45CEBFFBE6,9
+3617,36.44514,Dresses,"Danny & Nicole Women's Stripe Jacket Dress","Danny & Nicole",74.99,Women,DB68512896941514A089C37392F0683B,9
+3618,3.93855,Dresses,"Allegra K Woman Cowl Neck Stripe Bare Back Mini Dress Blue Black S","Allegra K",8.47,Women,4DA9D7B6D119DB4D2D564A2197798380,9
+3619,27.31700,Dresses,"bebe Back Cutout Shine Bodycon Dress",bebe,59.00,Women,820E694038FADBF9B60B834215B46FDB,10
+3620,29.63100,Dresses,"Quiksilver Elbow Patcher Crew Sweatshirt - Women's",Quiksilver,59.50,Women,4BAF54F36935058BCC696FCEF3F4689B,9
+3621,56.06400,Dresses,"Calvin Klein Women's Ponte Polyesterester Career Dress","Calvin Klein",128.00,Women,C5B270A763686E776039618CC709F3A6,3
+3622,58.05000,Dresses,"D.E.P.T. Women's Sweater Dress",D.E.P.T.,129.00,Women,856B503E276CC491E7E6E0AC1B9F4B17,9
+3623,10.25000,Dresses,"Trixxi Juniors Crepe De Chene Stripe Dress",Trixxi,25.00,Women,ECDCD675B3A4CBB5578BAF72F255EC21,2
+3624,60.15000,Dresses,"Vince Camuto Women's Peplum Sheath Dress","Vince Camuto",150.00,Women,5EE0070C40A7C781507B38C59C3EB8D4,1
+3625,28.56000,Dresses,"Connected Apparel Colorblock Dolman Sweater Dress",Connected,60.00,Women,DD7970532BFA1449085B8F43FC39A7D5,9
+3626,4.20462,Dresses,"Allegra K Lady Stripes Stretchy Dolman Sleeve Loose Upper Dress Dark Red XS","Allegra K",9.87,Women,0EE8B85A85A49346FDFF9665312A5CC4,9
+3627,26.23720,Dresses,"Jessica Simpson Women's Bow Bodice Sundress","Jessica Simpson",58.96,Women,2BF283C05B601F21364D052CA0EC798D,4
+3628,29.16840,Dresses,"eloquii Draped One Shoulder Dress",eloquii,65.40,Women,3E524BF740DC8CFD3F49BD3E96DAEE6E,3
+3629,10.07500,Dresses,"Wrapper Juniors Sleeveless V-Neck Dress",Wrapper,25.00,Women,1305F6C705349316360C3CCFE7CFE847,2
+3630,56.63528,Dresses,"maxandcleo Women's Kathy Dress",maxandcleo,119.99,Women,1A551829D50F1400B0DAB21FDD969C04,10
+3631,61.96200,Dresses,"Jax Women's Crochet Dress",Jax,138.00,Women,FD4C2DC64CCB8496E6F1F94C85F30D06,8
+3632,31.51902,Dresses,"Jessica Howard Women's Rosy Mob Jacket Dress","Jessica Howard",71.31,Women,398475C83B47075E8897A083E97EB9F0,3
+3633,4.49224,Dresses,"Allegra K Lady Scoop Neck Short Sleeve Mini Dress Khaki Blue XS","Allegra K",9.32,Women,ACF922154627F6788918F03C42B123CD,9
+3634,134.80800,Dresses,"Trina Turk Women's Inga Dress","Trina Turk",328.00,Women,E2EABAF96372E20A9E3D4B5F83723A61,3
+3635,10.91250,Dresses,"Curve Appeal Cowl Neck Long Cap Sleeve Sweater with Elastic Belt","Curve Appeal",24.25,Women,A098B2EB3138551138D127925D092D67,8
+3636,27.54000,Dresses,"Gabby Skye Women's Social Sequin Surplus Front Dress","Gabby Skye",64.80,Women,48042B1DAE4950FEF2BD2AAFA0B971A1,1
+3637,39.77600,Dresses,"Kensie Women's Sequin Jersey Dress",Kensie,88.00,Women,CAE82D4350CC23ACA7FC9AE38DAB38AB,2
+3638,45.59544,Dresses,"Mother of the Bride Formal Evening Dress #27837","US Fairytailes",99.99,Women,895DAA408F494AD58006C47A30F51C1F,3
+3639,47.89521,Dresses,"Jessica Howard Women's 1 Piece Long Sleeve Surplus Bodice Ruched Waist Dress","Jessica Howard",99.99,Women,BA304F3809ED31D0AD97B5A2B5DF2A39,3
+3640,41.58000,Dresses,"Ever Pretty Women's Duchess Lace Long Dress",Ever-Pretty,99.00,Women,4F11B55F57612F06FE9638B99F6C66E6,8
+3641,29.89992,Dresses,"Lilly Pulitzer Women's Davie Dress","Lilly Pulitzer",60.04,Women,22C5A901070D1C2AD33E821D071AE97E,9
+3642,33.61500,Dresses,"Calvin Klein Women's Fit N Flare Dress","Calvin Klein",81.00,Women,300D1539C3B6AA1793B5678B857732CF,3
+3643,15.83520,Dresses,"Plus size Striped Dress Skirt Black","eVogues Apparel",32.99,Women,7AE11AF20803185120E83D3CE4FB4ED7,5
+3644,11.07500,Dresses,"A. Byer Juniors Strapless Stripe Pleated Bodice Dress","A. Byer",25.00,Women,8A057268A74A5F1201285AA667585E15,1
+3645,21.62040,Dresses,"eloquii Ruched Colorblock Dress",eloquii,51.60,Women,D0AA518D4D3BFC721AA0B8AB4EF32269,3
+3646,12.62579,Dresses,"Sexy Slimming Stretch Strapless Fitted Tube Top Cocktail Mini Dress","Hot from Hollywood",29.99,Women,B5A1D925221B37E2E399F7B319038BA0,1
+3647,16.48029,Dresses,"Plus size Sexy Black Single Shoulder Mini Dress","eVogues Apparel",34.99,Women,0D8080853A54F8985276B0130266A657,5
+3648,18.74415,Dresses,"2B Mila Studded Ponte Dress","2b by bebe",44.95,Women,CFF02A74DA64D145A4AED3A577A106AB,5
+3649,108.91500,Dresses,"laundry BY SHELLI SEGAL Women's Pleated Jersey and Sequin Dress","laundry by SHELLI SEGAL",265.00,Women,49C0FA7F96AA0A5FB95C62909D5190A6,1
+3650,28.47690,Dresses,"Jessica Howard Women's Ditsy 3/4 Sleeve Jacket Dress","Jessica Howard",59.70,Women,45CEF8E5B9570959BD9FEAACAE2BF38D,3
+3651,22.74545,Dresses,"Designer Long Evening Rhinestone Prom Party Gown","Hot from Hollywood",49.99,Women,C203E4A1BDEF9372CB9864BFC9B511CC,1
+3652,49.44200,Dresses,"Max and Cleo Women's Julia City Dress",maxandcleo,118.00,Women,E1021D43911CA2C1845910D84F40AEAE,10
+3653,17.36250,Dresses,"Alice & Trixie Women's Long Astrid Dress","Alice & Trixie",37.50,Women,2DA6CC4A5D3A7EE43C1B3AF99267ED17,1
+3654,32.07033,Dresses,"Karen Kane Women's Button Up Shirred Dress","Karen Kane",69.87,Women,CF88118AA2BA88DE549D08038AE76606,4
+3655,5.52925,Dresses,"Allegra K Ladies Elastic Waist Flower Shirred Flounce Off Shoulder Dress Black M","Allegra K",13.01,Women,310CC7CA5A76A446F85C1A0D641BA96D,9
+3656,50.15000,Dresses,"Kensie Women's Brocade Dress",Kensie,118.00,Women,14678DB82874F1456031FCC05A3AFAF6,2
+3657,5.57540,Dresses,"Allegra K Ladies Zipper Neck Long Batwing Sleeve Dress Black","Allegra K",12.20,Women,A22D33B4A00C165507A61F3BED4B5149,9
+3658,28.44252,Dresses,"Jones New York Women's Cargo Shirt Dress","Jones New York",67.24,Women,30A237D18C50F563CBA4531F1DB44ACF,3
+3659,39.71000,Dresses,"BB Dakota Juniors Parley","BB Dakota",95.00,Women,07845CD9AEFA6CDE3F8926D25138A3A2,8
+3660,21.91965,Dresses,"AGB Women's Short Sleeve Cowl Necked Sweater Dress",AGB,50.39,Women,9627C45DF543C816A3DDF2D8EA686A99,1
+3661,4.84512,Dresses,"Allegra K Woman V Neck Elastic Waist Leopard Print Chiffon Dress Coffee Color M","Allegra K",11.76,Women,E761813F83DFC86FA1C6E0DA5510C3B8,9
+3662,129.60000,Dresses,"Eva Franco Women's Alexa V-Neck Dress","Eva Franco",270.00,Women,2B346A0AA375A07F5A90A344A61416C4,8
+3663,4.38471,Dresses,"Allegra K Ladies OL Pink Sleeveless Round Neck Mini Tank Dress XS","Allegra K",9.27,Women,DDF9029977A61241841EDEAE15E9B53F,9
+3664,9.85507,Dresses,"Casual Chic Short Sleeve Button Up Pocket A Line Mini Bow Tie Shirt Dress S M L","Hot from Hollywood",19.99,Women,B67FB3360AE5597D85A005153451DD4E,1
+3665,4.75251,Dresses,"Allegra K Ladies Pullover Round Neck Sleeveless Mesh upper Mini Dress M","Allegra K",11.13,Women,6915849303A3FE93657587CB9C469F00,9
+3666,37.03537,Dresses,"Miss Sixty Women's Marilyn Dress","Miss Sixty",79.99,Women,1EA97DE85EB634D580161C603422437F,2
+3667,5.32440,Dresses,"Allegra K Women Scoop Neck Ruffled Short Sleeve Chiffon Dress w Belt White XS","Allegra K",10.80,Women,F095CEDD23B99F1696FC8CAECBCF257E,9
+3668,16.49754,Dresses,"Sexy Cocktail Party Clubwear Fitted Hot Prom Mini Dress S M L","Hot from Hollywood",36.99,Women,1D2A48C55F6F10010887CC7D849469A1,1
+3669,21.14550,Dresses,"Lindy Bop 'Wynona' Chic Vintage 1950's Secretary Style Black Pencil Wiggle Dress","Lindy Bop",46.99,Women,E1228BE46DE6A0234AC22DED31417BC7,7
+3670,57.11200,Dresses,"BCBGeneration Women's Long Sleeve Surplus Dress",BCBGeneration,118.00,Women,77EC6F21C85B637CC42BB997841E11A6,8
+3671,18.82772,Dresses,"Lindy Bop 'Dolores' Red Vintage 1950'S Sweetheart Neckline Pinup Pencil Party Evening Wiggle Dress","Lindy Bop",43.99,Women,54EBDFBBFE6C31C39AABA9A1EE83860A,7
+3672,77.73600,Dresses,"Jax Women's Tucked Front Dress",Jax,158.00,Women,F3C89B7BE367AA4246F90AA007EFE525,8
+3673,42.85600,Dresses,"Armani Exchange Seamed Mini Dress","A:X Armani Exchange",88.00,Women,740A02D0786A4239A62076F650CD26DA,8
+3674,30.91908,Dresses,"Calvin Klein Women's Color Block Dress","Calvin Klein",72.58,Women,F35FD567065AF297AE65B621E0A21AE9,3
+3675,12.27500,Dresses,"Tiana B Women's The Waterfall Chiffon Dress","Tiana B",25.00,Women,845F3CB43A07259B2E4724DFA5C5C0D1,7
+3676,11.82600,Dresses,"American Apparel Fine Jersey Stripe T Dress","American Apparel",27.00,Women,11338326597D14A1F7C745853F4D50A8,8
+3677,107.63586,Dresses,"Ball Gown Strapless Formal Prom Wedding Dress #2714","US Fairytailes",259.99,Women,71D7232B9FED020CA23729017873089E,3
+3678,52.89540,Dresses,"Formal Cocktail Party Short Prom Dress #2622","US Fairytailes",114.99,Women,2151B4C76B4DCB048D06A5C32942B6F6,3
+3679,170.01600,Dresses,"Parker Women's Cap Sleeve Beaded Dress",Parker,352.00,Women,74791EDF1F8E8B8289A5067737630874,7
+3680,37.52500,Dresses,"Jax Women's Satin and Lace Dress",Jax,79.00,Women,2122C699D5E3D2FA6690771845BD7904,8
+3681,123.27540,Dresses,"HALSTON HERITAGE Women's Sleeveless Mock Neck Dress","Halston Heritage",267.99,Women,9426C311E76888B3B2368150CD05F362,1
+3682,18.95630,Dresses,"AGB Women's Striped Long Sleeve Sweater Dress With Sash",AGB,45.35,Women,898AEF0932F6AAECDA27ABA8E9903991,1
+3683,12.42500,Dresses,"Wrapper V-Back Blouse Jersey Dress",Wrapper,25.00,Women,ACB5D1120B8A0B8D3D97905BA9A72DC4,2
+3684,38.10400,Dresses,"Bcbgeneration women's Red Ruffle Dress",BCBGeneration,88.00,Women,C90E274D55309DB944076AFB3FF9C391,8
+3685,48.26080,Dresses,"maxandcleo Women's Sabrina Cocktail Dress",maxandcleo,97.30,Women,55A0DF4B5A1786CD13A7A8DE759859D4,10
+3686,16.30534,Dresses,"Plus Size Wrap Dress Black","eVogues Apparel",34.99,Women,DC727151E5D55DDE1E950767CF861CA5,5
+3687,166.97200,Dresses,"BCBGMAXAZRIA Women's Marta 3/4 Sleeve Sequin Dress",BCBGMAXAZRIA,338.00,Women,6754E06E46DFA419D5AFE3C9781CECAD,3
+3688,49.20300,Dresses,"Huafeng Uniform Epaulet Stand-collar Slim Double Breasted Wool Coat Jackets Womens",Huafeng,99.00,Women,D880067F879409DF09AC50BA315707AA,6
+3689,30.12400,Dresses,"Alternative Women's Bellflower Tunic",Alternative,68.00,Women,39EA40E164F970C54B0530436D5A9F7A,2
+3690,18.69660,Dresses,"ROMEO & JULIET COUTURE Beaded Sweater Dress [RJSCSW1148]","Romeo & Juliet Couture",39.95,Women,781397BC0630D47AB531EA850BDDCF63,9
+3691,23.85712,Dresses,"London Times Women's Printed Matte Shutter Tuck Dress","London Times",50.12,Women,8ABFE8AC9EC214D68541FCB888C0B4C3,3
+3692,6.00974,Dresses,"Allegra K Women Zip up Hooded Patchwork Striped Hem Navy Blue Mini Dress S","Allegra K",12.98,Women,882735CBDFD9F810814D17892AE50023,9
+3693,123.70900,Dresses,"Vivienne Westwood Anglomania Women's Liberty Dress","Vivienne Westwood",260.44,Women,F23D125DA1E29E34C552F448610FF25F,1
+3694,60.94100,Dresses,"Anne Klein Women's Tuxedo Dress","Anne Klein",149.00,Women,4B26DC4663CCF960C8538D595D0A1D3A,2
+3695,20.95754,Dresses,"Lindy Bop 'Sabina' Vintage 1940's 1950's Style Black Long Sleeved Lace Wiggle Dress","Lindy Bop",46.99,Women,AF1B5754061EBBD4412ADFB34C8D3534,7
+3696,19.71507,Dresses,"Sleeveless Sheer Layer V Neck Evening Bridesmaid Prom Party Cocktail Dress S M L","Hot from Hollywood",39.99,Women,95C9D994F8D75D4D60F8BB8F25902339,1
+3697,7.26045,Dresses,"Collections Etc - Easy-Wear Ruffle Flounce V-Neck Dress","Samanthas Style Shoppe",14.97,Women,0B105CF1504C4E241FCC6D519EA962FB,6
+3698,12.05598,Dresses,"Plus size Shoulder Spike Studded Knit Dress Black","eVogues Apparel",29.99,Women,943AA0FCDA4EE2901A7DE9321663B114,5
+3699,31.78440,Dresses,"eloquii Draped One Shoulder Dress",eloquii,65.40,Women,A18630AB1C3B9F14454CF70DC7114834,3
+3700,72.44600,Dresses,"French Connection Women's Ribbon Knit Dress","French Connection",178.00,Women,F92586A25BB3145FACD64AB20FD554FF,5
+3701,47.61900,Dresses,"Calvin Klein Women's Sleeveless Sheath Dress","Calvin Klein",99.00,Women,B181EAA49F5924E16C772DCB718FCD0F,3
+3702,16.25280,Dresses,"French Connection Women's Scott Stripe Long Sleeve Dress","French Connection",33.86,Women,A928731E103DFC64C0027FA84709689E,5
+3703,83.05600,Dresses,"Zeilei 5846 Strapless Peacock Embroidery Evening Prom Pageant Dress",Prom21,179.00,Women,7D2A383E54274888B4B73B97E1AAA491,1
+3704,57.72800,Dresses,"BCBGeneration Women's One Shldr Ruffle Dress",BCBGeneration,128.00,Women,9308B0D6E5898366A4A986BC33F3D3E7,8
+3705,45.99800,Dresses,"#7701 Halter Corset Bodice Bridesmaids Evening Formal Dress",Cinderella,109.00,Women,2CFA3753D6A524711ACB5FCE38EECA1A,8
+3706,114.32800,Dresses,"BCBGMAXAZRIA Women's Palais One Shoulder Luxe Satin",BCBGMAXAZRIA,248.00,Women,4764F37856FC727F70B666B8D0C4AB7A,3
+3707,48.72816,Dresses,"French Connection Women's Fast Dee Tweed Dress","French Connection",98.64,Women,2AD9E5E943E43CAD612A7996C12A8796,5
+3708,16.45000,Dresses,"Hurley Juniors Zahara Dress",Hurley,35.00,Women,34FFEB359A192EB8174B6854643CC046,1
+3709,196.24800,Dresses,"Tracy Reese Women's Contrast Frock Dress","Plenty by Tracy Reese",408.00,Women,56DB57B4DB0A6FCB7F9E0C0B504F6472,1
+3710,26.32095,Dresses,"John Zack Sophisticated Lace V-Neck Dress Mini Dress Cocktail Dress","Fashion Victim",64.99,Women,5505712229FB1EB500EFADDDC0353264,5
+3711,4.06915,Dresses,"Allegra K Woman Red Lace Upper Stretchy Close-fitting Straight Summer Patchwork Dress XS","Allegra K",8.39,Women,ABA18772FC70C8CBF79A79F413EF102B,9
+3712,4.95000,Dresses,"Ladies Plus Size Taupe Open Back Tunic Sweater Dress",FineBrandShop,9.90,Women,87AE6FB631F7C8A627E8E28785D9992D,7
+3713,44.45100,Dresses,"Jones New York Women's Chevron Cut and Sew Knit Bateau Neck Long Sleeve Dress","Jones New York",99.00,Women,7553E94D39FD4649FF75386A83ED3789,3
+3714,21.30258,Dresses,"London Times Women's Printed Matte Sheath Dress","London Times",52.86,Women,E36286B94D3C219F414E0427E5F73AA5,3
+3715,14.86045,Dresses,"2B Katrina Crossback Dress","2b by bebe",32.95,Women,D2D2C6E2445EEF2BCFF6BF0FDF69846C,5
+3716,21.79564,Dresses,"STRAPLESS LONG DESIGNER EVENING GOWN SEXY MAXI DRESS NEW WITH TAG !","Hot from Hollywood",49.99,Women,1B32A022C52C0C6255C2A32E580BE34F,1
+3717,13.20184,Dresses,"Collections Etc - Scoop Neck Stretch Polyester A Line Dress","Samanthas Style Shoppe",27.97,Women,240C945BB72980130446FC2B40FBB8E0,6
+3718,5.59062,Dresses,"Allegra K Allegra K Lady Ruffle 3/4 Sleeve Off Shoulder Lace Dress Top White XS","Allegra K",11.34,Women,9D068C869FD3E03FC606EC297FCD00BE,9
+3719,75.05460,Dresses,"BCBGMAXAZRIA Women's Duran Strapless Cocktail Dress",BCBGMAXAZRIA,183.06,Women,9E740B84BB48A64DDE25061566299467,3
+3720,21.87000,Dresses,"Plus Size Royal Red Dress","Fashion Love",45.00,Women,532B81FA223A1B1EC74139A5B8151D12,1
+3721,20.63520,Dresses,"Grey V-Neck Hoodie Sweater Dress",NI9NE,42.99,Women,9E406957D45FCB6C6F38C2ADA7BACE91,5
+3722,44.29557,Dresses,"Special Sale!!! Ball Gown Strapless Wedding Prom Dress #2547","US Fairytailes",99.99,Women,56E6A93212E4482D99C84A639D254B67,3
+3723,29.53591,Dresses,"Moonar Chiffon Strapless Straight Across A Line Prom Formal Gown Party Bridesmaid Wedding Dress",Moonar,64.63,Women,AFA299A4D1D8C52E75DD8A24C3CE534F,5
+3724,15.55925,Dresses,"Jones New York Women's Sleeveless Cowl Neck Drape Dress","Jones New York",36.61,Women,4172F3101212A2009C74B547B6DDF935,3
+3725,30.98100,Dresses,"Ever Pretty Women's Irresistible Diamante Long Dress",Ever-Pretty,69.00,Women,94EF7214C4A90790186E255304F8FD1F,8
+3726,10.82067,Dresses,"Short Sleeve Sheer Sweetheart Neckline Fitted Evening Mini Cocktail Dress S M L","Hot from Hollywood",24.99,Women,9FE77AC7060E716F2D42631D156825C0,1
+3727,115.48800,Dresses,"Plus Size Analisa Lace Column Dress",Kiyonna,288.00,Women,D3802B1DC0D80D8A3C8CCC6CCC068E7C,3
+3728,44.17500,Dresses,"Jones New York Women's Mj Cowl Draped Dress","Jones New York",93.00,Women,460B491B917D4185ED1F5BE97229721A,3
+3729,19.68881,Dresses,"50's Black & White Floral Dress","Tiger Milly",46.99,Women,CB16B8498F74BA6B6A6873518624168C,10
+3730,39.07100,Dresses,"AGB Women's V-Neck Dress With Draped Side",AGB,89.00,Women,D8C24CA8F23C562A5600876CA2A550CE,1
+3731,64.99800,Dresses,"Jessica Simpson Women's Belted Dress with Pleats","Jessica Simpson",138.00,Women,7EC3B3CF674F4F1D23E9D30C89426CCE,4
+3732,5.40290,Dresses,"Allegra K Woman Short Sleeve V Neck Dotted Above Knee Dress Pink White M","Allegra K",11.14,Women,EE23E7AD9B473AD072D57AAA9B2A5222,9
+3733,4.57248,Dresses,"Allegra K Ladies Elastic Waist Two Pockets Front Tank Dress White XS","Allegra K",10.56,Women,64D52E08CC03E6090BC1EF30B73CCB85,9
+3734,34.30336,Dresses,"Calvin Klein Women's Cowl Dress","Calvin Klein",85.12,Women,9D752CB08EF466FC480FBA981CFA44A1,3
+3735,23.94994,Dresses,"50's Brocade Prom Party Dress","Tiger Milly",58.99,Women,DC0C398086FEE58F9D64E1E47AA4E586,10
+3736,27.48934,Dresses,"50's Tea Party Small Polka Dot Dress Black","Tiger Milly",58.99,Women,3E195B0793297114C668F772C6E2D9BA,10
+3737,17.28545,Dresses,"Strapless Sweetheart Neckline Cut Out Lace Applique Tulip Pleated Mini Dress","Hot from Hollywood",37.99,Women,3DB11D259A9DB7FB8965BDF25EC850B9,1
+3738,60.19600,Dresses,"Zeilei 9194 Taffeta Strapless Mother of Bride Dress with Jacket",Prom21,149.00,Women,16738419B15B05E74E1ECB164430BFA8,1
+3739,20.99955,Dresses,"Sourpuss Rockabilly Sea Devil Octopus and Anchors All Over Dress","Sourpuss Clothing",48.95,Women,20885C72CA35D75619D6A378EDEA9F76,5
+3740,7.55425,Dresses,"Allegra K Ladies Zipped Closure Back Long Sleeve Fake Pearl Decor Mini Dress Pink XS","Allegra K",16.75,Women,33EF701C8059391708F1C3DDBE9F1F81,9
+3741,7.29450,Dresses,"Allegra K Ladies Long Sleeve A-line Dress W Removeable Bow Tie Belt Black S","Allegra K",16.21,Women,63CE12DCF1EDE17589BEFD56BB5281A5,9
+3742,28.07800,Dresses,"Roxy Juniors Sea Siren Tube Maxi Dress",Roxy,69.50,Women,1F72E258FF730035F2A1FB6637F562C2,2
+3743,70.78400,Dresses,"Scalloped Boudoir Lace Dress",Kiyonna,158.00,Women,0937FB5864ED06FFB59AE5F9B5ED67A9,3
+3744,16.79580,Dresses,"BLACK MARILYN INSPIRED PLEATED HALTER DRESS PARTY COCKTAIL GOWN","Hot from Hollywood",39.99,Women,56517F19AA289885C43E8DB9137FB1B0,1
+3745,159.15540,Dresses,"Parker Women's Beaded Spaghetti Tank Dress",Parker,345.99,Women,6D3A2D24EB109DDDF78374FE5D0EE067,7
+3746,29.39580,Dresses,"Blue Banana - Grecian Slinky Dress","Blue Banana",69.99,Women,E8542A04D734D0CAE36D648B3F519E5C,3
+3747,26.62950,Dresses,"Skelapparel 50's Black and White Polka Dot Party Swing Dress",Skelapparel,64.95,Women,D8847BE3F7CC1B14E9173908BEBB2106,6
+3748,126.35200,Dresses,"BCBGMAXAZRIA Women's Jeisa Sleeveless Color Block Pleated Dress",BCBGMAXAZRIA,298.00,Women,AAACCD2766EC67AECBE26459BB828D81,3
+3749,76.06500,Dresses,"Weston Wear Women's Lynda Dress","Weston Wear",165.00,Women,F9BEB1E831FAF6AAEC2A5CECAF1AF293,10
+3750,7.25473,Dresses,"Womens Lace Belted Skater Party Dress","VIP BOUTIQUE",16.99,Women,685AC8CADC1BE5AC98DA9556BC1C8D9E,5
+3751,14.75734,Dresses,"Collections Etc - Versatile Black A Line Long Sleeve Dress","Samanthas Style Shoppe",34.97,Women,21CE689121E39821D07D04FAAB328370,6
+3752,20.76958,Dresses,"50's Big Polka Dot Dress Red","Tiger Milly",46.99,Women,48DF7B8E8D586A55CF3E7054A4C85B30,10
+3753,15.42618,Dresses,"Patty Women Cute Black & White Spotted Halter Cocktail Party Dress",Patty,34.98,Women,258E130476290221F597C56D351224B6,1
+3754,85.14000,Dresses,"BCBGMAXAZRIA Women's Skye Halter Dress With Cowl Neck",BCBGMAXAZRIA,198.00,Women,2E3D2C4F33A7A1F58BC6C81CACD21E9C,3
+3755,61.82400,Dresses,"Lilly Pulitzer Women's Sloane Printed Dress","Lilly Pulitzer",138.00,Women,CD3BBC2D7CA1BBDC055ACF58609E6C24,9
+3756,49.20300,Dresses,"Jones New York Women's Assorted Stripe Knit Bateau Neck Belted Dress","Jones New York",99.00,Women,91F9FEC9B080C74297A55C392B5F40A4,3
+3757,4.52981,Dresses,"Allegra K Women Sleeveless Ruffled Detail Lace Guipure Pullover Mini Dress Dark Blue M","Allegra K",10.51,Women,B4AFFA4F6B27DF047D63D66FE4AC5600,9
+3758,12.50583,Dresses,"Womens Elegant Long Black Evening Dress or Day Wear Sexy","Newport News",29.99,Women,3DF07FDAE1AB273A967AAA1D355B8BB6,4
+3759,31.28198,Dresses,"Calvin Klein Women's Ruffle Dress","Calvin Klein",72.58,Women,CBF22AB286E2AD4900BDF5D6A2E47009,3
+3760,4.66200,Dresses,"Allegra K Woman Dot Print Double V Neck Sash-waist Dress Pink White L","Allegra K",10.36,Women,27E8E17134DD7083B050476733207EA1,9
+3761,38.79000,Dresses,"BB Dakota Juniors Pedrina","BB Dakota",90.00,Women,092CB13C22D51C22B9035A2B4FE76B00,8
+3762,9.29535,Dresses,"One-size-fits-most Tube Dress/Coverup - Field Of Flowers (many colors)",Alki'i,19.99,Women,9332C513EF44B682E9347822C2E457AC,1
+3763,6.79847,Dresses,"Allegra K Woman Sleeveless U Neck Low-high Coattails Hem Dress Black White S","Allegra K",13.79,Women,7BA6D33C373FEA56B7258003B16C68E5,9
+3764,43.41400,Dresses,"French Connection Women's Bambi Stripe Knit Dress","French Connection",98.00,Women,641D77DD5271FCA28764612A028D9C8E,5
+3765,22.19112,Dresses,"Karen Kane Women's Ruffle Maxi Dress","Karen Kane",46.62,Women,211A7A84D3D5CE4D80347DA11E0C85ED,4
+3766,5.03800,Dresses,"Allegra K Woman V Neck Elastic Waist Above Knee Dress Beige Blue M","Allegra K",11.45,Women,79CAE1BE0FBAE74DAFBF8399EE2209CB,9
+3767,23.56758,Dresses,"Aqua Scoop Neck Sweater Dress",Aqua,55.98,Women,D74CB35426F3D808325876F45B69DBF1,7
+3768,7.02000,Dresses,"CUTE OPTIONS Short Sleeve Batik Print Dress [2018]","CUTE OPTIONS",15.00,Women,28D437661D95291767E7402DFE969962,3
+3769,63.61600,Dresses,"Charlize Maxi Dress",Kiyonna,128.00,Women,4625D8E31DAD7D1C4C83399A6EB62F0C,3
+3770,15.93102,Dresses,"Baby Doll Long Sleeve Twisted Scoop Neck Dress",Kavio,31.99,Women,7F6CAF1F0BA788CD7953D817724C2B6E,2
+3771,48.86558,Dresses,"maxandcleo Women's Jacquard Bead Dress",maxandcleo,100.34,Women,201E5BACD665709851B77148E225B332,10
+3772,6.34794,Dresses,"Allegra K Ladies Long Sleeves Stretchy Black Floral Accent Autumn Dress White S","Allegra K",14.46,Women,83DDFBD1C4F871159C148D7A010E69BE,9
+3773,28.87080,Dresses,"Gabby Skye Women's One Piece Dress","Gabby Skye",58.80,Women,5C151C2A9B76F9EF26D7E0F0D00C9A89,1
+3774,26.72700,Dresses,"As U Wish Juniors Sweater Knit Belted Dress","As U Wish",59.00,Women,73F104C9FBA50050EEA11D9D075247CC,3
+3775,46.95357,Dresses,"Jessica Simpson Women's Assymetrical Drape Yoke Dress","Jessica Simpson",105.99,Women,F2B93CE08763FDDF54BCB7BEB62A2C74,4
+3776,8.97551,Dresses,"One-size-fits-most Tube Dress/Coverup with Peacock Print (many colors)",Alki'i,19.99,Women,2119B8D43EAFCF353E07D7CB5554170B,1
+3777,57.62750,Dresses,"Calvin Klein Women's MSY Printed Seamed Dress","Calvin Klein",129.50,Women,ADD7A048049671970976F3E18F21ADE3,3
+3778,21.62095,Dresses,"2B Sequin Peplum Dress","2b by bebe",44.95,Women,CAB070D53BD0D200746FB852A922064A,5
+3779,18.87600,Dresses,"American Apparel Cotton Spandex Jersey Turtleneck Dress","American Apparel",44.00,Women,8CE87BDDA85CD44F14DE9AFB86491884,8
+3780,14.76578,Dresses,"ROMEO & JULIET COUTURE Sweater Dress W/ Lace Ruffle [RJ21071]","Romeo & Juliet Couture",34.99,Women,3569DF159EC477451530C4455B2A9E86,9
+3781,16.37369,Dresses,"Sheer Long Sleeve Lace Panel Fitted Sweetheart Formal Evening Cocktail Dress","Hot from Hollywood",37.99,Women,9FC664916BCE863561527F06A96F5FF3,1
+3782,11.46159,Dresses,"Red & White Long Sleeve Polka Dot Below The Knee Dress","Jon & Anna",25.99,Women,F87E955FD6B89F8963B6934BEB077D6E,7
+3783,23.57990,Dresses,"Moonar Chiffon One Shoulder Prom Formal Gown Mini Cocktail Party Wedding Bridesmaid Dress",Moonar,50.17,Women,1AA3D9C6CE672447E1E5D0F1B5207E85,5
+3784,26.98690,Dresses,"Skelapparel Gothic Lolita Black Belted Military Swing Dress",Skelapparel,63.95,Women,E16E74A63567ECB44ADE5C87002BB1D9,6
+3785,93.45600,Dresses,"bebe Isis Sequin V-neck Feather Dress",bebe,198.00,Women,44FEB0096FAA8326192570788B38C1D1,10
+3786,13.12200,Dresses,"MontyQ UK Long Black Holiday Dress Party Maxi Dress Empire Bohemian Style Plus Sizes available L1L",MontyQ,27.00,Women,34306D99C63613FAD5B2A140398C0420,3
+3787,12.35000,Dresses,"Trixxi Juniors Blousant Knit Dress",Trixxi,25.00,Women,F3175210F90BFC7EA82901DB0EF7452F,2
+3788,19.31289,Dresses,"50's Small Polka Dot Dress Blue","Tiger Milly",46.99,Women,DEB74A85A4A68465B75C721D45DB5D3B,10
+3789,64.08400,Dresses,"Suzi Chin Women's Colorblock Sheath","Suzi Chin",148.00,Women,335D3D1CD7EF05EC77714A215134914C,3
+3790,29.70500,Dresses,"American Apparel Knit Sweater Crew Neck Dress","American Apparel",65.00,Women,E73FECC08EE9B0E1A876614EC3178BAC,8
+3791,4.44117,Dresses,"Allegra K Ladies Contrast Color Deep V Neck Sleeveless Tank Dress White Watermelon Red S","Allegra K",9.51,Women,690BB330E5E7E3E07867FAFC4D32EC82,9
+3792,83.48200,Dresses,"Jax Women's Highneck Colorblock Dress",Jax,178.00,Women,4ECB679FD35DCFD0F0894C399590BE1A,8
+3793,102.67200,Dresses,"Ella moss Women's Tiara Dress","Ella Moss",248.00,Women,C157297D1A1FF043255BFB18530CAAA2,3
+3794,64.72200,Dresses,"BCBGMAXAZRIA Women's Weiss Knit Sportswear Dress",BCBGMAXAZRIA,138.00,Women,916D3891A243C10FEDE49F9C276F1A20,3
+3795,40.49500,Dresses,"Tradtional oriental dress of cherry blossom",Bitablue,89.00,Women,42547F5A44D87DA3BC40EE5D09624606,1
+3796,21.96000,Dresses,"Volcom Juniors Whirlpool Dress",Volcom,45.00,Women,41C542DFE6E4FC3DEB251D64CF6ED2E4,4
+3797,25.65000,Dresses,"Danny & Nicole Women's Crepe Sleeveless Sheath Dress","Danny & Nicole",54.00,Women,36072923BFC3CF47745D704FEB489480,9
+3798,7.43820,Dresses,"Allegra K Ladies Pale Pink V Neck Low-high Hem Sleeveless Dress M","Allegra K",15.18,Women,C82836ED448C41094025B4A872C5341E,9
+3799,57.33000,Dresses,"Adrianna Papell Women's One Shoulder Printed Cocktail Dress","Adrianna Papell",130.00,Women,58521E4E2BD3D4B988CBD17D7365DF3C,10
+3800,21.13650,Dresses,"Evan Picone Women's Printed Matte Jersey Flutter Sleeve Dress","Evan Picone",49.50,Women,63C6598E9DDD2961E7DFA4D4EB8144A1,3
+3801,26.38433,Dresses,"Moonar Chiffon Strapless Sweetheart Asymmetrical Prom Formal Gown Party Bridesmaid Wedding Dress",Moonar,61.79,Women,95323660ED2124450CAAAC2C46B5ED90,5
+3802,31.74000,Dresses,"Ever Pretty Women's Captivate Lace Long Dress",Ever-Pretty,69.00,Women,D3614F463B2D42ABA2700556D42740D0,8
+3803,5.86080,Dresses,"Allegra K","Allegra K",12.21,Women,E97399278D24E6BBF3A2D5E9C8D34262,9
+3804,54.39800,Dresses,"BCBGeneration Women's One Shoulder Dress",BCBGeneration,118.00,Women,37968AD196A5085F5ED91E58DF8C2CEF,8
+3805,19.16115,Dresses,"O'Neill Juniors Spirit Within Hi Low Hem Dress",O'Neill,45.95,Women,98CAC9D33AAD44BB31800130E8C50B5F,8
+3806,5.36518,Dresses,"Allegra K Lady White Collar Half Sleeve Stretchy Mini Dress Red XS","Allegra K",11.74,Women,5E7264477CF9B6B237A0D254CF0324E2,9
+3807,30.60720,Dresses,"eloquii Long Sleeve Studded Dress",eloquii,65.40,Women,43A115CBD6F4788924537365BE3D6012,3
+3808,28.26455,Dresses,"Plus Size Vintage 60's Queen of Hearts Two Tone Black and Burgundy Satin Dress",Skelapparel,62.95,Women,CD8D5260C8131CA7AEEA5D41796D1A0A,6
+3809,22.36866,Dresses,"Eva Franco Women's Colette Dress","Eva Franco",51.07,Women,38EF4B66CB25E92ABE4D594ACB841471,8
+3810,180.64200,Dresses,"Parker Women's V-Neck Beaded Dress",Parker,374.00,Women,02AE6A786BBF135D3D223CBC0E770B6E,7
+3811,57.12900,Dresses,"Jones New York Women's Shift Dress","Jones New York",139.00,Women,8068FEE5F49946B3A8F85B1007CD40BB,3
+3812,4.72553,Dresses,"Allegra K Ladies Guipure Racerback V Neck Shirred Hugging Mini Dress White XS","Allegra K",9.47,Women,40DBA662FAE60CD3BCCEAA76A82D2873,9
+3813,55.57300,Dresses,"Anne Klein Women's Cap Sleeve Ponte Swing Dress","Anne Klein",119.00,Women,0A49E3C3A03EBDE64F85C0BACD8A08E2,2
+3814,16.18185,Dresses,"2B Tawny Cutout Racerback Dress","2b by bebe",34.95,Women,C563C2C394023A07D56AD6B3EB09537A,5
+3815,113.67000,Dresses,"Laundry by Shelli Segal Women's One Shoulder Beaded Gown","laundry by SHELLI SEGAL",270.00,Women,143758EE65FB29D30CAA170C0DB0ED36,1
+3816,18.23544,Dresses,"FUNFASH WHITE ? SLEEVES EMPIRE WAIST COCKTAIL DRESS NEW Plus Size Made in USA",Funfash,39.99,Women,C911241D00294E8BB714EEE2E83FA475,1
+3817,20.92500,Dresses,"Volcom Juniors Sugarhill Striped Dress",Volcom,45.00,Women,FA6C94460E902005A0B660266190C8BA,4
+3818,45.00300,Dresses,"Eliza J Women's Boat Neck Cap Sleeve Long Dress with Beaded Patch and Cascade Ruffle","Eliza J",107.15,Women,B994697479C5716EDA77E8E9713E5F0F,2
+3819,31.67200,Dresses,"NoeMie Women Print Dress",NoeMie,74.00,Women,EB1848290D5A7DE9C9CCABC67FEFA211,5
+3820,23.11908,Dresses,"50's White & Black Floral Dress","Tiger Milly",46.99,Women,91E50FE1E39AF2869D3336EAAEEBDB43,10
+3821,15.49006,Dresses,"LAT Junior Fine Jersey V-Neck Tee Dress","LAT Sportswear",31.42,Women,C04C19C2C2474DBF5F7AC4372C5B9AF1,2
+3822,3.33183,Dresses,"LnLClothing Ladies Fashion Strapless Pleated Dress ID.DS1194.W.11A",LnLClothing,7.99,Women,0E57098D0318A954D1443E2974A38FAC,1
+3823,4.87785,Dresses,"Allegra K Woman Strapless Mini Chiffon Dress Pink XS w a Stretchy Waist Belt","Allegra K",10.49,Women,BCA382C81484983F2D437F97D1E141F3,9
+3824,101.68000,Dresses,"BCBGMAXAZRIA Women's Rigby Striped Ponte Sheath Dress",BCBGMAXAZRIA,248.00,Women,67974233917CEA0E42A49A2FB7EB4CF4,3
+3825,20.89488,Dresses,"Jessica Simpson Women's Flutter Sleeve Dress With Front Pleats","Jessica Simpson",51.72,Women,C24FE9F765A44048868B5A620F05678E,4
+3826,6.28705,Dresses,"Allegra K Woman Scoop Neck Puff Sleeves Lace Shoulder Cutout Back Shirr Front Red Dress XS","Allegra K",12.65,Women,A292F1C5874B2BE8395FFD75F313937F,9
+3827,32.78200,Dresses,"Folter Clothing STRAPLESS BLACK ROSE DRESS in Black on Black Rose Print",Folter,74.00,Women,B5B8C484824D8A06F4F3D570BC420313,4
+3828,17.42700,Dresses,"Alice & Trixie Women's Zinnia Dress","Alice & Trixie",37.00,Women,46D3F6029F6170EBCCB28945964D09BF,1
+3829,29.50766,Dresses,"maxandcleo Women's April Dress",maxandcleo,67.99,Women,B7D0858D41A6C29B873E4ABA411E6D04,10
+3830,118.29600,Dresses,"BCBGMAXAZRIA Women's Meyna Blocked Sheath Dress",BCBGMAXAZRIA,248.00,Women,FCDE14913C766CF307C75059E0E89AF5,3
+3831,95.59522,Dresses,"Laundry by Shelli Segal Women's Wavy Stitch Long Sleeve Sweater Dress","laundry by SHELLI SEGAL",199.99,Women,CAC8E13055D2E4F62B6322254203B293,1
+3832,55.77015,Dresses,"Prom Halter Dress New Elegant Long Gown #2780","US Fairytailes",114.99,Women,EA9268CB43F55D1D12380FB6EA5BF572,3
+3833,19.91502,Dresses,"Sleeveless Sheer Cut Out Panel High Low Hem Evening Cocktail Party Dress S M L","Hot from Hollywood",39.99,Women,65B1E92C585FD4C2159D5F33B5030FF2,1
+3834,5.61246,Dresses,"Allegra K Women Scoop Neck Sleeveless Pleated Dress Beige White XS","Allegra K",11.62,Women,243BE2818A23C980AD664F30F48E5D19,9
+3835,13.25209,Dresses,"Womens Glamorous Long Sleeve Full Length Modern Red Print Dress",Argenti,26.99,Women,1C66F4627F1B9679F8DB47D1287D7E98,7
+3836,44.44800,Dresses,"KAMALIKULTURE Women's Turtleneck Dress",KAMALIKULTURE,96.00,Women,6E2EEC9CA19C076736D19AC5426473AF,9
+3837,11.17386,Dresses,"Womens Sexy 3/4 Sleeve Purple V-Neck Mini Dress",Argenti,26.99,Women,A6ADE5AA93B826F8DE63C663E1159BF7,7
+3838,15.90600,Dresses,"Alice & Trixie Women's Mara Dress","Alice & Trixie",33.00,Women,F26DF67E8110EE2B44923DB775E3E47F,1
+3839,33.61800,Dresses,"Kensie Women's Sheer Viscose Dress",Kensie,78.00,Women,9B2F00F37307F2C2F372ACAFE55843F3,2
+3840,63.51843,Dresses,"Jessica Howard Women's Plus Size 2 Piece 3/4 Sleeve Bolero Jacket Dress","Jessica Howard",138.99,Women,DFA037A53E121ECC9E0926800C3E814E,3
+3841,3.42771,Dresses,"LnLClothing Lace Up Sleeveless Dress ID.5658JJ.R12A",LnLClothing,7.99,Women,7DA18D0326A9F46A4817E19C805819AE,1
+3842,12.23530,Dresses,"Collections Etc - Tie Neck Shirred A Line Dress With Bow","Samanthas Style Shoppe",24.97,Women,7FA215C9EFEBB3811A7EF58409907899,6
+3843,16.69910,Dresses,"2B Valentina Faux Corset Dress","2b by bebe",39.95,Women,9EAC167EC1EFBE078138397FABBA902E,5
+3844,34.78800,Dresses,"French Connection Women's Stretch Stripe Dress","French Connection",78.00,Women,494C08F7A144D3CC4CFA661ED1244039,5
+3845,46.61556,Dresses,"Maggy London Women's Cap Sleeve Lace Dress","Maggy London",104.99,Women,C6D6445D97E06D08B60853156601CF58,2
+3846,12.80524,Dresses,"Roxy Juniors Easy Going Halter Dress",Roxy,31.54,Women,6236C78E73F52110AE39E588BA88DE0B,2
+3847,13.94419,Dresses,"Kirra Womens Sunset Twist Dress",Kirra,28.99,Women,A3048E47310D6EFAA4B1EAF55227BC92,2
+3848,32.57200,Dresses,"NoeMie Women Simple Sling Cocktail Evening DressGreen",NoeMie,68.00,Women,42C8938E4CF5777700700E642DC2A8CD,5
+3849,59.67000,Dresses,"Icebreaker Women's Long Sleeve Roma Dress",Icebreaker,130.00,Women,4F5A97CF06CF69028997DB51D8726D28,1
+3850,39.10500,Dresses,"Jax Women's Scallop Neck Dress",Jax,79.00,Women,F550E0BA9E1C4E8BB4A5ED0AC23A952D,8
+3851,16.60125,Dresses,"2B Norah Sweetheart Peplum Dress","2b by bebe",34.95,Women,DC0439CAEB74FFC2795571AF07A7EAB1,5
+3852,20.41600,Dresses,"American Apparel Cotton Spandex Jersey Long Sleeve Criss-Cross Dress","American Apparel",44.00,Women,582967E09F1B30CA2539968DA0A174FA,8
+3853,14.68125,Dresses,"Alice & Trixie Women's Elsa Dress","Alice & Trixie",36.25,Women,B9F35816F460AB999CBC168C4DA26FF3,1
+3854,31.80352,Dresses,"Kensie Women's Sequin Jersey Sleeveless Dress",Kensie,70.99,Women,31C0B36AEF265D9221AF80872CEB62F9,2
+3855,196.61200,Dresses,"French Connection Women's Solar Heat Dress","French Connection",398.00,Women,D58F855FDCC76DAF232AEE454C4E59F7,5
+3856,13.42510,Dresses,"Anna-Kaci S/M Fit One Shoulder Fashion Forward Sequin Sparkle Short Mini Dress",Anna-Kaci,29.90,Women,4C2E5EAAE9152079B9E95845750BB9AB,7
+3857,41.53541,Dresses,"Corey Lynn Calter Women's Holly Maxi Tank Dress",CoreyLynnCalter,100.57,Women,F269CB7796C3319C9AA4D146B52139E6,3
+3858,40.18500,Dresses,"BB Dakota Neva Sequin Dress Black","BB Dakota",95.00,Women,50DD7100BCBD98C41B1179143A2325A4,8
+3859,26.51000,Dresses,"American Apparel Stretch Floral Lace Long Sleeve Mini Dress","American Apparel",55.00,Women,7171E95248FF768E1EBEE3EDDE01EA7A,8
+3860,9.27536,Dresses,"Junior's Halter Dress with Round Buckle",MW22,19.99,Women,5A5EAB21CA2A8FEF4AF5E35709ECCA15,1
+3861,167.45400,Dresses,"BCBGMAXAZRIA Women's Vallissa Geometric Sequin Shift Dress",BCBGMAXAZRIA,378.00,Women,A6197A578FE7778E8D49A95AC425BCFC,3
+3862,67.20600,Dresses,"maxandcleo Women's Lillian Dress",maxandcleo,138.00,Women,533FA796B43291FC61A9E812A50C3FB6,10
+3863,24.47055,Dresses,"Taillissime Plus Size Side Button Sweater",Taillissime,54.99,Women,C4D2CE3F3EBB5393A77C33C0CD95DC93,4
+3864,35.07600,Dresses,"Noemie See-through Embroidery Dress (Black)",NoeMie,79.00,Women,4F8BC5AC1DC2B49434EFE9E72F183DE8,5
+3865,64.60503,Dresses,"BCBGMAXAZRIA Women's Emmalise Woven Sportswear Dress",BCBGMAXAZRIA,129.99,Women,866D90E0921AC7B024B47D672445A086,3
+3866,41.48539,Dresses,"Tiana B Women's Blinged Twofer Dress","Tiana B",89.99,Women,A9DF2255AD642B923D95503B9A7958D8,7
+3867,32.32944,Dresses,"Jones New York Women's Ring Assymetrical Neckline Seamed Aline Matte Dress","Jones New York",69.08,Women,8E54D6B523B279543AC12A0F7333CD3C,3
+3868,34.56000,Dresses,"Three Dots Women's Crew Neck Tunic Dress","Three Dots",80.00,Women,70162FE655EC381AC6312EBF026AAC54,4
+3869,31.11900,Dresses,"bebe Mesh Shoulder Stripe Bodycon Dress",bebe,69.00,Women,2C620A8C232F32AA9E7DCBC90102B253,10
+3870,17.57800,Dresses,"2B Marina Strapless Hi Low Dress","2b by bebe",39.95,Women,C255C05246A081654A0267CBB725F5A7,5
+3871,61.23900,Dresses,"DKNYC Women's Long Sleeve Cross Front System Dress With Sequin Bottom",DKNYC,149.00,Women,551CB238F4895024B98D1943B708DE7C,2
+3872,27.07560,Dresses,"eloquii Metallic Drop Shoulder Dress",eloquii,65.40,Women,D35B05A832E2BB91F110D54E34E2DA79,3
+3873,28.84611,Dresses,"50's Vintage Tea Prom Dress Big Polka Dot Black & White","Tiger Milly",58.99,Women,DB346CCB62D491029B590BBBF0F5C412,10
+3874,27.61200,Dresses,"Rampage Juniors Long Sleeve Lace Dress",Rampage,59.00,Women,2ED80F6311C1825FEB854D78FA969D34,4
+3875,5.79364,Dresses,"Allegra K Women Zipper Closure Back Sleeveless Zip up Lace Mini Dress White M","Allegra K",12.02,Women,CCC81A97C1535F9A631B9DB584A264E4,9
+3876,31.22378,Dresses,"Strapless Bandage Mini Bubble Dress Prom Party Formal Gown",PacificPlex,73.99,Women,834A3BD235BCA0CAA53141F2EBC30438,1
+3877,28.97988,Dresses,"Moonar Chiffon Straps Sweetheart Prom Formal Gown Full Length Party Bridemaid Dress",Moonar,67.71,Women,8D9A6E908ED2B731FB96151D9BB94D49,5
+3878,43.25400,Dresses,"#5098 Satin V-neck Bridemaid Prom Formal Long Gown",Cinderella,89.00,Women,9854D7AFCE413AA13CD0A1D39D0BCEC5,8
+3879,5.34538,Dresses,"Allegra K Ladies Scoop Neck Long Sleeve Sexy Leopard Prints Textured Mini Dress Black XS","Allegra K",11.09,Women,CC58F7ABF0B0CF2D5AC95AB60E4F14E9,9
+3880,202.44000,Dresses,"Nicole Miller Women's Cutout Back Stretch Lace Dress","Nicole Miller",420.00,Women,0DD1BC593A91620DAECF7723D2235624,4
+3881,8.11594,Dresses,"Red Floral Graphic Print Black Long / Maxi Dress",TopTie,19.99,Women,A1C5AFF9679455A233086E26B72B9A06,10
+3882,5.49072,Dresses,"Allegra K Ladies Long Sleeve Semi Sheer Lace Patchwork Wrap Back Dress Gray XS","Allegra K",11.07,Women,DF42E2244C97A0D80D565AE8176D3351,9
+3883,66.67600,Dresses,"Plus Size 3/4 Sleeved Scalloped Boudoir Lace Dress - Black Lace/black Lining",Kiyonna,158.00,Women,51F3EB940FD73A19119534C063967BFF,3
+3884,71.18800,Dresses,"Miss Sixty Women's Adrienne Dress","Miss Sixty",148.00,Women,8DCF2420E78A64333A59674678FB283B,2
+3885,16.63962,Dresses,"Short Sleeve Cowl Neck Fitted Warm Winter Print Sweater Mini Dress Top S M L","Hot from Hollywood",37.99,Women,311ABB492A69FE7DA41BE858FDD2AAE8,1
+3886,147.93600,Dresses,"BCBGMAXAZRIA Women's Seri Woven Evening Dress",BCBGMAXAZRIA,368.00,Women,5DB60C98209913790E4FCCE4597EE37C,3
+3887,31.37600,Dresses,"Noemie See-through Sequin Paillette Dress",NoeMie,74.00,Women,9649DEC6196D730C5E024F204477D8D1,5
+3888,21.04579,Dresses,"Rampage Juniors Black Knit Mesh Dress",Rampage,49.99,Women,97250EB3250C1FA40A321076D5BE217D,4
+3889,16.67166,Dresses,"Patty Women Stunning Drape Front and Back Cowl Neck Sleeveless Casual Dress",Patty,39.98,Women,86098EF82C97FA789A47A8D2E8800794,1
+3890,20.01165,Dresses,"Adrianna Papell Women's Draped Jersey Dress","Adrianna Papell",44.97,Women,CBFE5681369338A48E2D1B63998099D6,10
+3891,24.13619,Dresses,"Wrapper Knit High Low Hem Tulip Skirt Detail Gathered Bodice Dress with Braided Tie Belt",Wrapper,52.13,Women,C2C2A04512B35D13102459F8784F1A2D,2
+3892,16.55172,Dresses,"Patty Women Gorgeous Square Neck Pencil Cocktail Evening Party Dress",Patty,39.98,Women,FB0650FF38F84D526883336FF5119DC0,1
+3893,29.96039,Dresses,"John Zack Stunning Lace Slash Neck Dress Mini Dress Cocktail Dress","Fashion Victim",64.99,Women,E8D66338FAB3727E34A9179ED8804F64,5
+3894,65.72800,Dresses,"Plus Size 3/4 Sleeved Scalloped Boudoir Lace Dress",Kiyonna,158.00,Women,5C8E07660E3000F141DDA8B83107ED6E,3
+3895,60.79200,Dresses,"Tart Women's Autumn Dress",Tart,136.00,Women,EE188463935A061DEE6DF8BF449CB882,6
+3896,11.17500,Dresses,"Wrapper Sequin Bodice Halter Dress",Wrapper,25.00,Women,4175F2EBB265D58C6D8877841D016D08,2
+3897,32.66032,Dresses,"Kenneth Cole Women's Tweedy Ikat Print Pleated Dress","Kenneth Cole",67.76,Women,B957D47523C4E92A822CC38703A3BCC3,6
+3898,48.96560,Dresses,"Trina Turk Women's Madam Blanche Dress","Trina Turk",100.96,Women,37DB6BB5F1DB992DF92A919D20757EEC,3
+3899,22.47455,Dresses,"Volcom Juniors Not So Classic Dress",Volcom,54.95,Women,FD5AC6CE504B74460B93610F39E481F7,4
+3900,4.52610,Dresses,"Allegra K Ladies Deep V Neck Dots Print Elastic Waist Mini Dress Pink XS","Allegra K",9.63,Women,4837BA5CD49C7F03CAAA423049E66DAF,9
+3901,78.20526,Dresses,"Mother of the Bride Formal Evening Dress #2813","US Fairytailes",164.99,Women,4FC848051E4459B8A6AFEB210C3664EC,3
+3902,11.82500,Dresses,"Wrapper Plus-Size V-Back Cowl-Neck Jersey Dress",Wrapper,25.00,Women,1517C8664BE296F0D87D9E5FC54FDD60,2
+3903,11.53824,Dresses,"Tiana B Women's The Nautical Girl Nautical Stripe Dress","Tiana B",28.56,Women,9D949C3D8BAA0F9DF6F22C4661946A61,7
+3904,31.43400,Dresses,"French Connection Women's Susu Stripe Boatneck Dress","French Connection",78.00,Women,C09F9CAF5E08836D4673CCDD69BB041E,5
+3905,21.89562,Dresses,"FUNFASH RED BLACK 3/4 SLEEVES WRAP COCKTAIL CRUISE DRESS Plus Size Womens New Made in USA",Funfash,49.99,Women,63154D5661F774FB7D2D11701D466AA2,1
+3906,19.56360,Dresses,"Skelapparel 60's Rockabilly Black Satin Flare Swing Dress",Skelapparel,47.95,Women,E593C562359C3C2E42A22B808D3383E7,6
+3907,26.17524,Dresses,"BCBGMAXAZRIA Women's Etania Low Back Tank Dress",BCBGMAXAZRIA,54.99,Women,3341F6F048384EC73A7BA2E77D2DB48B,3
+3908,28.27008,Dresses,"Nine West Dresses Women's Split Sleeve Dress With Buckle","Nine West",65.44,Women,576D026223582A390CD323BEF4BAD026,10
+3909,17.47658,Dresses,"Pendleton Women's Carlton Dress",Pendleton,41.81,Women,4175A4B46A45813FCCF4BD34C779D817,9
+3910,12.74490,Dresses,"Anna-Kaci S/M Fit Black Great Gatsby Twenty's Era Inspired Fringe Party dress",Anna-Kaci,28.90,Women,1BE883EEC3231F9FE43C35BD1B4B3BB5,7
+3911,33.59520,Dresses,"NoeMie Women Hollow Weave Flower DressPurple",NoeMie,69.99,Women,1BF50AAF147B3B0DDD26A820D2ED394D,5
+3912,7.67520,Dresses,"Allegra K Allegra K Woman Studded Cross Front Strap Padded Bust Plasted Mini Dress Beige XS","Allegra K",15.60,Women,27B587BBE83AECF9A98C8FE6AB48CACC,9
+3913,6.93532,Dresses,"Allegra K Women Scoop Neck Long Sleeve Bowknot Decor Cute Lace Dress Black XS","Allegra K",14.57,Women,B085C4FA543AFE32970749F5E2BCDC6A,9
+3914,7.89230,Dresses,"Black Ladies Bold Fitted Long Dress 3/4 Sleeves",FineBrandShop,16.90,Women,B85D65C39E12A5515C19FD72B6F48199,7
+3915,25.31578,Dresses,"FUNFASH NEW SLIMMING PINK BLACK LONG MAXI COCKTAIL DRESS Plus Size NEW Plus Size Made in USA",Funfash,59.99,Women,39539F630A3B94D3ED61EA9D04C9BB05,1
+3916,4.22232,Dresses,"Allegra K Woman Guipure Boat Neck Sleeveless Tunic Dress Black White M","Allegra K",9.64,Women,49CBB75927723EFBA3B4C108ED4A12F3,9
+3917,17.19459,Dresses,"Sleeveless Rhinestone Pin Brooch Satin Look Sheer Overlay Evening Party Dress","Hot from Hollywood",38.99,Women,4D95D05A4FC4EADBC3B9DDE67AFDCA39,1
+3918,21.75580,Dresses,"AX Paris Studded Shoulder Bodycon Dress",AxParis,44.95,Women,859B00AEC8885EFC83D1541B52A1220D,4
+3919,8.65755,Dresses,"Long White Maxi Dress",TopTie,18.15,Women,5FC7C9BD1FCB12799F02DA8ADFA4954F,10
+3920,16.52130,Dresses,"Patty Women Beautiful One Piece Drawstring Waist Knit Long Maxi Dress",Patty,37.98,Women,D6525AA8638C1D8D4DA535FBB1A5FC80,1
+3921,22.04559,Dresses,"Prom V-shape Dress New Elegant Long Gown #2560","US Fairytailes",49.99,Women,9B8F0779BADBAD3B46D6718EE95A68FF,3
+3922,29.51200,Dresses,"NoeMie Women Retro Minimalism Dress",NoeMie,68.00,Women,D90E5B6628B4291225CBA0BDC643C295,5
+3923,17.49693,Dresses,"Patty Women Mesh Fabric Fully Lined Cowl Neck Ruched Sheath Cocktail Party Mini Dress",Patty,42.99,Women,97F081D3B1B352E9D1AAA2225DD6BB16,1
+3924,13.16880,Dresses,"Anna-Kaci Free Size Golden Metallic Cream Dramatic Elegance Pleated Ribbon Dress",Anna-Kaci,27.90,Women,943B5FD1EF60D3A4DB537AF4A4D0C802,7
+3925,18.63000,Dresses,"O'Neill Juniors Sparrow Dress",O'Neill,46.00,Women,1340CCF24722F02BBC81B3822CE23D4C,8
+3926,14.24525,Dresses,"Womens Convertible Leopard Print Dress or Tunic Top Off the Shoulder Very Unique Animal Print",Avital,29.99,Women,4FC28B7093B135C21C7183AC07E928A6,4
+3927,29.23740,Dresses,"Calvin Klein Three Quarter Sleeve Dress","Calvin Klein",66.60,Women,D2DC6368837861B42020EE72B0896182,3
+3928,29.81574,Dresses,"FUNFASH NEW SLIMMING BLUE BLACK LONG MAXI COCKTAIL DRESS Plus Size Made in USA Fast Shipping",Funfash,69.99,Women,1597D21403F63DA1BB0539592597A525,1
+3929,24.84503,Dresses,"FUNFASH SUBLIMATION BLUE FLORAL SLIMMING COCKTAIL DRESS Plus Size Made in USA",Funfash,49.99,Women,79F69230354B71206FB723C571CCE58B,1
+3930,20.74039,Dresses,"FUNFASH BLACK WHITE POLKA DOTS ROCKABILLY WRAP DRESS NEW Plus Size Made in USA",Funfash,44.99,Women,679D8BBD776E0BBF3B044306C5BE94AE,1
+3931,11.90000,Dresses,"O'Neill Juniors Mahalo Strapless Dress",O'Neill,25.00,Women,ACFF1AF62D0F91F4BE73F4857552D70C,8
+3932,5.19830,Dresses,"Allegra K Lady Floral Prints Semi Sheer Sleeveless Elastic Waist Mini Chiffon Dress Red S","Allegra K",11.35,Women,C56A022B15250525F8B9BDFC41A13152,9
+3933,29.13530,Dresses,"Blue Banana - Print Slinky Wrap Dress","Blue Banana",61.99,Women,298F587406C914FAD5373BB689300433,3
+3934,107.16000,Dresses,"French Connection Women's Unno Dress","French Connection",228.00,Women,F8F122D50EBA11C3AF5607575B277BC6,5
+3935,42.53200,Dresses,"French Connection Women's Real Jag Stripe Knit Dress","French Connection",98.00,Women,13E36F06C66134AD65F532E90D898545,5
+3936,42.66900,Dresses,"Jones New York Women's Matte Jersey Side Tie Dress","Jones New York",99.00,Women,70FC5F043205720A49D973D280EB83E7,3
+3937,6.65632,Dresses,"Allegra K Lady Color Matching Scoop Neck Sleeveless Stretchy Stripes Dress XS","Allegra K",13.42,Women,394868456436DBE743E4380554C0493A,9
+3938,4.92507,Dresses,"Allegra K Lady Scoop Neck Elastic Waist Sleeveless Mini Dress Cyan Black XS","Allegra K",9.99,Women,74C407E263578D03D02C1123AA730B52,9
+3939,5.46803,Dresses,"Allegra K XS Beige Applique Round Neck Accordion Pleats Tank Dress for Woman","Allegra K",11.81,Women,E5AFB0F2DBC6D39B312D7406054CB4C6,9
+3940,4.07456,Dresses,"Allegra K Women Strapless Elastic Top Plastic Crystal Decor Mini Dress","Allegra K",8.56,Women,3FA146219C48A4393AACE23E8F353125,9
+3941,13.83000,Dresses,"Wrapper V-Neck Dress with Gathered Knot",Wrapper,30.00,Women,29E1C59BE16C852670E3BE302E8C303B,2
+3942,23.05800,Dresses,"American Apparel Lace Print Nylon Tricot 3/4 Sleeve Dress","American Apparel",54.00,Women,EC36E2BA64F11C9E910E0353E0836D81,8
+3943,26.28080,Dresses,"AGB Women's Plus-Size Ruched Short Sleeve V-Neck Dress with Empire Waistline",AGB,53.20,Women,DA21BAE82C02D1E2B8168D57CD3FBAB7,1
+3944,59.07578,Dresses,"Mother of the Bride Formal Evening Dress #277501","US Fairytailes",139.99,Women,F9FE83F1EA3DD2108188FB7BF8AA5B3C,3
+3945,57.21600,Dresses,"Calvin Klein Women's Career Ponte Dress","Calvin Klein",128.00,Women,C3810D4A9513B028FC0F2A83CB6D7B50,3
+3946,10.32500,Dresses,"Pencey Standard Women's Tank Dress","Pencey Standard",25.00,Women,71A8B2FFE0B594A5C1B3C28090384FD7,7
+3947,33.30600,Dresses,"BCBGeneration Women's Low Back Dress",BCBGeneration,78.00,Women,DA4F21D00B1992E0B25F463B722DCC6A,8
+3948,97.64400,Dresses,"Lilla P Women's  Elbow Sleeve Sweater Dress","Lilla P",206.00,Women,6DF182582740607DA754E4515B70E32D,2
+3949,70.21500,Dresses,"Sam & Lavi Women's Scarlett Lace Dress","Sam & Lavi",155.00,Women,2E5C2CB8D13E8FBA78D95211440BA326,4
+3950,22.25025,Dresses,"2B Tropical Stripe Tina Maxi Dress","2b by bebe",44.95,Women,BB702465F3C3141263DDD046C9585B27,5
+3951,17.38954,Dresses,"Sleeveless Scoop Neck Embellished Belted Full Length Elegant Formal Dress S M L","Hot from Hollywood",38.99,Women,7F278AD602C7F47AA76D1BFC90F20263,1
+3952,72.16300,Dresses,"Zeilei 5896 Satin Red Animal Print One Shoulder Pageant Prom Dress",Prom21,169.00,Women,AF8D9C4E238C63FB074B44EB6AED80AE,1
+3953,29.98800,Dresses,"eloquii Contrast Lace Dress",eloquii,71.40,Women,B928FEC5932BF2FDDD2CC88C038B8CCB,3
+3954,54.04530,Dresses,"Mother of the Bride Formal Evening Dress #27025","US Fairytailes",114.99,Women,6E2D5D50A943A0E0D738377F51011685,3
+3955,35.32480,Dresses,"Three Dots Red Women's Martini Dress","Three Dots",85.12,Women,3F900DB2608FB3EECB3EE77BA9EF5F60,4
+3956,3.96990,Dresses,"Bottoming Skirt Ladies Long Sleeve Crew Neck Stripe Casual Cotton Mini Dress",Xfy,9.90,Women,0F3C5D0C3666EEC8CD311BEC6D878915,5
+3957,5.97733,Dresses,"Allegra K Allegra K Ladies Dots Strapless Tube Dress White Black XS","Allegra K",12.91,Women,86C51678350F656DCC7F490A43946EE5,9
+3958,31.77546,Dresses,"Special Sale!!! One Shoulder Cocktail Party Junior Prom Dress #2709","US Fairytailes",69.99,Women,BF5CD8B2509011B9502A72296EDC14A0,3
+3959,56.64300,Dresses,"Jax Women's Stretch Satin Dress",Jax,118.50,Women,806D926414CE19D907700E23177AB4FF,8
+3960,34.78800,Dresses,"BCBGeneration Women's Low Cut Back Dress",BCBGeneration,78.00,Women,AC52C626AFC10D4075708AC4C778DDFC,8
+3961,66.57162,Dresses,"Mother of the Bride Formal Evening Dress #2454","US Fairytailes",151.99,Women,24E01830D213D75DEB99C22B9CD91DDD,3
+3962,84.41531,Dresses,"Mother of the Bride Formal Evening Dress #2799","US Fairytailes",179.99,Women,6F611188AD4A81FFC2EDAB83B0705D76,3
+3963,103.73700,Dresses,"Zeilei 7528 Allover Sequins Strapless Evening Prom Pageant Dress",Prom21,229.00,Women,F51238CD02C93B89D8FBEE5667D077FC,1
+3964,15.88092,Dresses,"Cool Kaftans PLAIN Kaftan Caftan Dress Robe XXL Free Size Plus Lush","Cool Kaftans",34.98,Women,DD50E4D9C47CDF72D24E89D248EDB35B,3
+3965,22.29554,Dresses,"Krazy Sexy Club Cocktail Party Evening Dress #312 US 0-2 2-4 4-6",Krazy,49.99,Women,DB9AD56C71619AEED9723314D1456037,1
+3966,30.99960,Dresses,"eloquii Zig Zag Geo Print Dress",eloquii,65.40,Women,43D762CA733A839226415450B0DBF9D2,3
+3967,8.31584,Dresses,"Cross Back Hi Low Dress - Black with White Trim",TopTie,19.99,Women,B607BA543AD05417B8507EE86C54FCB7,10
+3968,34.36509,Dresses,"NoeMie Women Lace Elegant Sleeveless DressRed",NoeMie,69.99,Women,0CBED40C0D920B94126EAF5E707BE1F5,5
+3969,28.42800,Dresses,"Huafeng Sexy V-neck Lace Slim Dresses Womens",Huafeng,69.00,Women,F81DEE42585B3814DE199B2E88757F5C,6
+3970,17.20570,Dresses,"Anna-Kaci S/M Fit Black Purple Multi-Tiered Layered Fringe Metallic Detail Dress",Anna-Kaci,34.90,Women,11BCD3C1D43688891ED23F5677A174EA,7
+3971,44.37412,Dresses,"ABS by Allen Schwartz Women's Scoop-Neck Dress","A.B.S. by Allen Schwartz",101.08,Women,CBA0A4EE5CCD02FDA0FE3F9A3E7B89FE,7
+3972,18.44271,Dresses,"Black V-Neck Hoodie Sweater Dress",NI9NE,42.99,Women,F2E84D98D6DC0C7ACD56B40509355666,5
+3973,38.71500,Dresses,"NoeMie Women Senior Fashion Lace Dress",NoeMie,87.00,Women,678004486C119599ED7D199F47DA043A,5
+3974,7.25516,Dresses,"Womens Midi Length Bodycon Dress",STYLE,14.99,Women,9A32FF36C65E8BA30915A21B7BD76506,6
+3975,29.94900,Dresses,"Anne Klein Women's Structured Sleeve Twofer Dress","Anne Klein",74.50,Women,4F5A9BF135F285358A4A74B08F8121F8,2
+3976,5.45860,Dresses,"Allegra K Women Black Round Neck Mesh upper Sleeveless Pullover Mini Dress S","Allegra K",11.14,Women,2BA3C4B9390CC43EDB94E42144729D33,9
+3977,137.90400,Dresses,"BCBGMAXAZRIA Women's Abigail Knit Evening Dress",BCBGMAXAZRIA,338.00,Women,7D571E5C15BAD5EF8C4352CE7A1D9E78,3
+3978,161.36400,Dresses,"HALSTON HERITAGE Women's Sleeveless Ponte Pleated Dress","Halston Heritage",357.00,Women,A8BADD37C221A3F19D9AD0AC2196849A,1
+3979,10.99377,Dresses,"Black & White Long Sleeve Polka Dot Below The Knee Dress","Jon & Anna",25.99,Women,A58616464D14208B2677A084F5D7456F,7
+3980,20.54724,Dresses,"London Times Women's Pebble Crepe One Shoulder Dress","London Times",48.12,Women,9425BE43BA92C2B4454CA7BF602EFAD8,3
+3981,44.11000,Dresses,"Evanese Women's Elegant Long Dress with 3/4 Sleeves",Evanese,110.00,Women,1BDA4C789C38754F639A376716C5859F,7
+3982,30.33800,Dresses,"Skelapparel Plus Size Gothic Rockabilly Red Rose Belted Party Dress",Skelapparel,68.95,Women,A0443C8C8C3372D662E9173C18FAAA2C,6
+3983,143.52000,Dresses,"erin Erin Fetherston Women's Lace Twofer Dress","erin Erin Fetherston",345.00,Women,5E4450DC93010BBEEA7CD28EBA296850,6
+3984,36.61280,Dresses,"Donna Morgan Women's Stitched Down Pleat Front Dress","Donna Morgan",74.72,Women,7059B7DEA43DA04FD342088D7C1698F0,2
+3985,53.94000,Dresses,"Jones New York Women's Matte Jersey Rosette Dress","Jones New York",124.00,Women,0C2F66F43752D47FB49ABEEA0BADF47A,3
+3986,239.53800,Dresses,"Tracy Reese Women's Contrast Frock","Tracy Reese",498.00,Women,540393AE7F8B7A7FD6CDF47250B05679,3
+3987,38.64448,Dresses,"Donna Morgan Women's Quinn Dress","Donna Morgan",85.12,Women,4F9C76CF97F84048C5990DD4EF842EA2,2
+3988,18.52550,Dresses,"AX Paris Fitted Peplum Dress",AxParis,39.50,Women,BBBE7EF28A0018C4484EAA8B2D0A0328,4
+3989,64.67538,Dresses,"Mother of the Bride Formal Evening Dress #2838","US Fairytailes",139.99,Women,6516C28727509C3DB6280AE16254E916,3
+3990,4.43412,Dresses,"Allegra K Women Sleeveless Dots Design Butterfly Knot Left Upper Dress XS","Allegra K",9.81,Women,7612936DCC85282C6FA4DD9D4FFE57F1,9
+3991,40.29597,Dresses,"Jessica Howard Women's 1 Piece 3/4 Rhinestone Cuff Sleeve Portrait Collar Surplus Bodice Ruched Waist Dress","Jessica Howard",99.99,Women,DFBD282C18300FA0ECCCEEA6C5FAC41F,3
+3992,44.17200,Dresses,"BCBGeneration Women's Blouse Sleeve Dress",BCBGeneration,108.00,Women,0DE5D1A081A3095D62B416E44E055E7A,8
+3993,26.53200,Dresses,"NoeMie Women Lace Corset Dress",NoeMie,66.00,Women,C12D1F7CC7C4B41A125B5752D1238B03,5
+3994,45.08000,Dresses,"Lilly Pulitzer Women's Cassie Dress","Lilly Pulitzer",98.00,Women,ADF8D7F8C53C8688E63A02BFB3055497,9
+3995,47.04000,Dresses,"Jax Women's Split Shoulder Dress",Jax,96.00,Women,D464B5AC99E74462F321C06CCACC4BFF,8
+3996,23.04539,Dresses,"Sexy Chic Marilyn Pleated Halter Party Prom Club Cocktail Dress","Hot from Hollywood",49.99,Women,43E04DD08BB1305428B0C9C8D8A2660A,1
+3997,94.86400,Dresses,"Amanda Uprichard Women's Branston Dress","Amanda Uprichard",215.60,Women,ABEC16F483ABB4F1810CA029AADF8446,9
+3998,122.97200,Dresses,"Velvet Women's Farah Allover Sequin Dress",Velvet,284.00,Women,74306EEF5860833E2E47FF169A73B45B,1
+3999,9.79510,Dresses,"Black Lace Dress Three Quarter Sleeve Mini Dress Junior Sizing","Maud Sylvina",19.99,Women,9CF742E94F29F454AC42FF68F37D5CC4,9
+4000,73.78600,Dresses,"French Connection Women's Fast Anya Flower Dress","French Connection",158.00,Women,1BD69C7DF3112FB9A584FBD9EDFC6C90,5
